@@ -1,0 +1,1341 @@
+id,name,category,location_x,location_y,brand,price
+1001,Cola 2L,Beverage,1,1,Coca-Cola,2.99
+1002,Diet Cola 2L,Beverage,2,1,Coca-Cola,2.99
+1003,Zero Sugar Cola 2L,Beverage,3,1,Coca-Cola,2.99
+1004,Cherry Cola 2L,Beverage,4,1,Coca-Cola,2.99
+1005,Pepsi 2L,Beverage,5,1,Pepsi,2.89
+1006,Diet Pepsi 2L,Beverage,6,1,Pepsi,2.89
+1007,Lemon-Lime Soda 2L,Beverage,7,1,Sprite,2.99
+1008,Ginger Ale 2L,Beverage,8,1,Canada Dry,2.89
+1009,Root Beer 2L,Beverage,9,1,A&W,2.89
+1010,Orange Soda 2L,Beverage,10,1,Fanta,2.89
+1011,Grape Soda 2L,Beverage,11,1,Fanta,2.89
+1012,Cream Soda 2L,Beverage,12,1,A&W,2.89
+1013,Cola 12-pack Cans,Beverage,13,1,Coca-Cola,8.99
+1014,Diet Cola 12-pack Cans,Beverage,14,1,Coca-Cola,8.99
+1015,Pepsi 12-pack Cans,Beverage,15,1,Pepsi,8.79
+1016,Sprite 12-pack Cans,Beverage,16,1,Sprite,8.99
+1017,Dr. Pepper 12-pack Cans,Beverage,17,1,Dr. Pepper,8.79
+1018,Generic Cola 12-pack Cans,Beverage,18,1,Generic,6.99
+1019,Club Soda 1L,Beverage,19,1,Schweppes,1.99
+1020,Tonic Water 1L,Beverage,20,1,Schweppes,1.99
+1021,Seltzer Water Original,Beverage,21,1,Polar,1.5
+1022,Seltzer Water Lemon,Beverage,22,1,Polar,1.5
+1023,Seltzer Water Raspberry Lime,Beverage,23,1,Polar,1.5
+1024,Bottled Iced Tea Lemon,Beverage,24,1,Lipton,2.1
+1025,Bottled Iced Tea Peach,Beverage,25,1,Lipton,2.1
+1026,Bottled Green Tea,Beverage,26,1,Arizona,1.25
+1027,Kombucha Ginger,Beverage,27,1,GT's,4.5
+1028,Kombucha Pomegranate,Beverage,28,1,GT's,4.5
+1029,Cold Brew Coffee,Beverage,29,1,Stumptown,5.5
+1030,Frappuccino Coffee Drink,Beverage,30,1,Starbucks,3.5
+1031,Frappuccino Mocha Drink,Beverage,31,1,Starbucks,3.5
+1032,Energy Drink,Beverage,32,1,Red Bull,3.1
+1033,Sugar-Free Energy Drink,Beverage,33,1,Red Bull,3.1
+1034,Energy Drink Original,Beverage,34,1,Monster,3
+1035,Energy Drink Lo-Carb,Beverage,35,1,Monster,3
+1036,Sports Drink Lemon Lime,Beverage,36,1,Gatorade,2.5
+1037,Sports Drink Orange,Beverage,37,1,Gatorade,2.5
+1038,Sports Drink Fruit Punch,Beverage,38,1,Gatorade,2.5
+1039,Sports Drink Blue Cherry,Beverage,39,1,Powerade,2.4
+1040,Vitamin Water Acai Blueberry,Beverage,40,1,Glaceau,2.2
+1041,Vitamin Water Dragonfruit,Beverage,41,1,Glaceau,2.2
+1042,Coconut Water,Beverage,42,1,Vita Coco,3
+1043,Soy Milk Original,Beverage,43,1,Silk,4.2
+1044,Almond Milk Unsweetened,Beverage,44,1,Blue Diamond,4.3
+1045,Oat Milk,Beverage,45,1,Oatly,4.8
+1046,Chocolate Milk Half Gallon,Beverage,46,1,Nesquik,3.99
+1047,Protein Shake Chocolate,Beverage,47,1,Premier Protein,9.99
+1048,Protein Shake Vanilla,Beverage,48,1,Premier Protein,9.99
+1049,Drinkable Yogurt Strawberry,Beverage,49,1,Dannon,1.8
+1050,Kefir Plain,Beverage,50,1,Lifeway,4.5
+1051,Orange Juice Pulp Free,Beverage,1,2,Tropicana,4.5
+1052,Orange Juice with Pulp,Beverage,2,2,Tropicana,4.5
+1053,Orange Juice Calcium + Vit D,Beverage,3,2,Tropicana,4.8
+1054,Apple Juice,Beverage,4,2,Mott's,3.99
+1055,Cranberry Juice Cocktail,Beverage,5,2,Ocean Spray,4.2
+1056,Grape Juice,Beverage,6,2,Welch's,4.1
+1057,Pineapple Juice,Beverage,7,2,Dole,3.5
+1058,Tomato Juice,Beverage,8,2,Campbell's,3.2
+1059,Lemonade,Beverage,9,2,Simply,3.8
+1060,Raspberry Lemonade,Beverage,10,2,Simply,3.8
+1061,Fruit Punch 1 Gallon,Beverage,11,2,Hawaiian Punch,3.99
+1062,Juice Box Apple 8-pack,Beverage,12,2,Juicy Juice,4.5
+1063,Juice Box Berry 8-pack,Beverage,13,2,Capri Sun,4.2
+1064,Generic Orange Juice,Beverage,14,2,Generic,3.5
+1065,Generic Apple Juice,Beverage,15,2,Generic,3.2
+1066,Prune Juice,Beverage,16,2,Sunsweet,5.5
+1067,Grapefruit Juice,Beverage,17,2,Florida's Natural,4.3
+1068,Pomegranate Juice,Beverage,18,2,POM Wonderful,5.99
+1069,Vegetable Juice,Beverage,19,2,V8,4.1
+1070,Aloe Vera Drink,Beverage,20,2,OKF,2.8
+1071,Juice Smoothie Green Machine,Beverage,21,2,Naked,4.5
+1072,Juice Smoothie Strawberry Banana,Beverage,22,2,Naked,4.5
+1073,Juice Smoothie Mango,Beverage,23,2,Bolthouse Farms,4.4
+1074,Water Enhancer Lemonade,Beverage,24,2,Mio,3.99
+1075,Water Enhancer Fruit Punch,Beverage,25,2,Mio,3.99
+1076,Powdered Drink Mix Lemonade,Beverage,26,2,Country Time,4.2
+1077,Powdered Drink Mix Iced Tea,Beverage,27,2,Lipton,5.5
+1078,Powdered Chocolate Milk Mix,Beverage,28,2,Nesquik,6.1
+1079,Hot Cocoa Mix,Beverage,29,2,Swiss Miss,3.5
+1080,Hot Cocoa Mix w/ Marshmallows,Beverage,30,2,Swiss Miss,3.8
+1081,Sparkling Cider,Beverage,31,2,Martinelli's,4.2
+1082,Sparkling Grape Juice,Beverage,32,2,Welch's,4.1
+1083,Agave Nectar,Beverage,33,2,Generic,5.5
+1084,Simple Syrup,Beverage,34,2,Generic,4
+1085,Margarita Mix,Beverage,35,2,Jose Cuervo,7.5
+1086,Bloody Mary Mix,Beverage,36,2,Zing Zang,6.99
+1087,Grenadine,Beverage,37,2,Rose's,3.8
+1088,Evaporated Milk,Beverage,38,2,Carnation,1.99
+1089,Sweetened Condensed Milk,Beverage,39,2,Eagle Brand,2.5
+1090,Coconut Milk,Beverage,40,2,Thai Kitchen,3.2
+1091,Rice Milk,Beverage,41,2,Rice Dream,4
+1092,Hemp Milk,Beverage,42,2,Pacific Foods,4.5
+1093,Toddler Formula,Beverage,43,2,Enfamil,29.99
+1094,Infant Formula,Beverage,44,2,Similac,32.99
+1095,Pedialyte Electrolyte Drink,Beverage,45,2,Pedialyte,6.5
+1096,Distilled Water 1 Gallon,Beverage,46,2,Generic,1.5
+1097,Nursery Water 1 Gallon,Beverage,47,2,Gerber,1.99
+1098,Spring Water 1L,Beverage,48,2,Evian,2.5
+1099,Alkaline Water 1L,Beverage,49,2,Essentia,2.8
+1100,Flavored Water Variety Pack,Beverage,50,2,Hint,19.99
+1101,Spring Water 24-pack,Beverage,1,3,Aquafina,5.99
+1102,Purified Water 24-pack,Beverage,2,3,Generic,4.99
+1103,Spring Water 40-pack,Beverage,3,3,Nestle,6.99
+1104,Spring Water 1 Gallon,Beverage,4,3,Poland Spring,1.8
+1105,Sparkling Water Lime 12-pack,Beverage,5,3,La Croix,6.5
+1106,Sparkling Water Pamplemousse 12-pack,Beverage,6,3,La Croix,6.5
+1107,Sparkling Water Berry 12-pack,Beverage,7,3,La Croix,6.5
+1108,Sparkling Mineral Water,Beverage,8,3,Perrier,2.5
+1109,Sparkling Mineral Water Lemon,Beverage,9,3,Perrier,2.5
+1110,Italian Sparkling Water,Beverage,10,3,S.Pellegrino,2.6
+1111,Generic Sparkling Water,Beverage,11,3,Generic,4.5
+1112,Ground Coffee Breakfast Blend,Beverage,12,3,Starbucks,12.99
+1113,Ground Coffee French Roast,Beverage,13,3,Starbucks,12.99
+1114,Ground Coffee Classic Roast,Beverage,14,3,Folgers,9.99
+1115,Ground Coffee Colombian,Beverage,15,3,Maxwell House,9.89
+1116,Whole Bean Coffee,Beverage,16,3,Peet's Coffee,13.5
+1117,Instant Coffee,Beverage,17,3,Nescafe,7.5
+1118,Decaf Instant Coffee,Beverage,18,3,Nescafe,7.99
+1119,K-Cup Pods Breakfast Blend,Beverage,19,3,Green Mountain,12.5
+1120,K-Cup Pods Dark Magic,Beverage,20,3,Green Mountain,12.5
+1121,K-Cup Pods Pike Place,Beverage,21,3,Starbucks,13.99
+1122,K-Cup Pods Donut Shop,Beverage,22,3,The Original Donut Shop,12.5
+1123,Nespresso Pods Variety Pack,Beverage,23,3,Nespresso,18.99
+1124,Coffee Filters,Beverage,24,3,Melitta,3.5
+1125,Coffee Creamer French Vanilla,Beverage,25,3,Coffee-Mate,4.5
+1126,Coffee Creamer Hazelnut,Beverage,26,3,Coffee-Mate,4.5
+1127,Half & Half,Beverage,27,3,Generic,2.99
+1128,Black Tea Bags 100ct,Beverage,28,3,Lipton,4.5
+1129,Green Tea Bags 40ct,Beverage,29,3,Bigelow,3.99
+1130,Herbal Tea Chamomile,Beverage,30,3,Celestial Seasonings,3.8
+1131,Herbal Tea Peppermint,Beverage,31,3,Celestial Seasonings,3.8
+1132,English Breakfast Tea,Beverage,32,3,Twinings,4.2
+1133,Chai Tea Latte Concentrate,Beverage,33,3,Tazo,5.5
+1134,Matcha Green Tea Powder,Beverage,34,3,Generic,9.99
+1135,Loose Leaf Black Tea,Beverage,35,3,Generic,7.5
+1136,Honey Bear,Beverage,36,3,Generic,4.99
+1137,Sugar Canister,Beverage,37,3,Domino,3.8
+1138,Sweetener Packets,Beverage,38,3,Splenda,5.5
+1139,Stevia Sweetener,Beverage,39,3,Truvia,6.2
+1140,Barley Tea,Beverage,40,3,Generic,5.99
+1141,Dandelion Tea,Beverage,41,3,Traditional Medicinals,5.5
+1142,Ginger Tea,Beverage,42,3,Traditional Medicinals,5.5
+1143,Rooibos Tea,Beverage,43,3,Generic,6.1
+1144,Yerba Mate,Beverage,44,3,Guayaki,4.99
+1145,Bottled Water 16oz,Beverage,45,3,Dasani,1.99
+1146,Bottled Water 1L Sports Cap,Beverage,46,3,Smartwater,2.8
+1147,Enhanced Water w/ Electrolytes,Beverage,47,3,Propel,1.8
+1148,Kids Water Bottles 6-pack,Beverage,48,3,Generic,3.99
+1149,Office Water Cooler Jug 5gal,Beverage,49,3,Generic,8.99
+1150,Water Filter Pitcher,Beverage,50,3,Brita,29.99
+2001,Potato Chips Classic,Snacks & Package Sweet,1,1,Lay's,4.5
+2002,Sour Cream & Onion Chips,Snacks & Package Sweet,2,1,Lay's,4.5
+2003,BBQ Potato Chips,Snacks & Package Sweet,3,1,Lay's,4.5
+2004,Cheddar & Sour Cream Chips,Snacks & Package Sweet,4,1,Ruffles,4.75
+2005,Kettle Cooked Jalapeno Chips,Snacks & Package Sweet,5,1,Cape Cod,4.25
+2006,Pringles Original,Snacks & Package Sweet,6,1,Pringles,2.5
+2007,Pringles Sour Cream & Onion,Snacks & Package Sweet,7,1,Pringles,2.5
+2008,Tortilla Chips Restaurant Style,Snacks & Package Sweet,8,1,Tostitos,4.99
+2009,Tortilla Chips Hint of Lime,Snacks & Package Sweet,9,1,Tostitos,4.99
+2010,Nacho Cheese Tortilla Chips,Snacks & Package Sweet,10,1,Doritos,4.99
+2011,Cool Ranch Tortilla Chips,Snacks & Package Sweet,11,1,Doritos,4.99
+2012,Cheese Puffs,Snacks & Package Sweet,12,1,Cheetos,4.5
+2013,Pretzels Minis,Snacks & Package Sweet,13,1,Snyder's,4
+2014,Pretzel Crisps Original,Snacks & Package Sweet,14,1,Snack Factory,4.2
+2015,Popcorn Sea Salt,Snacks & Package Sweet,15,1,SkinnyPop,4.8
+2016,White Cheddar Popcorn,Snacks & Package Sweet,16,1,Smartfood,4.8
+2017,Caramel Corn with Peanuts,Snacks & Package Sweet,17,1,Cracker Jack,1.8
+2018,Cheddar Crackers,Snacks & Package Sweet,18,1,Goldfish,4.15
+2019,Saltine Crackers,Snacks & Package Sweet,19,1,Nabisco,3.99
+2020,Wheat Crackers,Snacks & Package Sweet,20,1,Triscuit,4.25
+2021,Buttery Round Crackers,Snacks & Package Sweet,21,1,Ritz,4.25
+2022,Peanut Butter Sandwich Crackers,Snacks & Package Sweet,22,1,Ritz,4.5
+2023,Club Crackers,Snacks & Package Sweet,23,1,Keebler,4.1
+2024,Rice Cakes,Snacks & Package Sweet,24,1,Quaker,3.5
+2025,Pita Crackers,Snacks & Package Sweet,25,1,Stacy's,4.3
+2026,Veggie Straws,Snacks & Package Sweet,26,1,Sensible Portions,4.1
+2027,Beef Jerky Original,Snacks & Package Sweet,27,1,Jack Link's,7.99
+2028,Beef Jerky Teriyaki,Snacks & Package Sweet,28,1,Jack Link's,7.99
+2029,Roasted Almonds,Snacks & Package Sweet,29,1,Blue Diamond,7.99
+2030,Cashews Salted,Snacks & Package Sweet,30,1,Planters,8.5
+2031,Mixed Nuts,Snacks & Package Sweet,31,1,Planters,8.99
+2032,Pistachios,Snacks & Package Sweet,32,1,Wonderful,9.2
+2033,Trail Mix,Snacks & Package Sweet,33,1,Generic,6.5
+2034,Sunflower Seeds,Snacks & Package Sweet,34,1,David,2.5
+2035,Pumpkin Seeds,Snacks & Package Sweet,35,1,Generic,5.5
+2036,Pork Rinds,Snacks & Package Sweet,36,1,Generic,2.2
+2037,Onion Rings,Snacks & Package Sweet,37,1,Funyuns,4.5
+2038,Corn Nuts,Snacks & Package Sweet,38,1,CornNuts,2.8
+2039,Wasabi Peas,Snacks & Package Sweet,39,1,Generic,3.5
+2040,Seaweed Snacks,Snacks & Package Sweet,40,1,GimMe,2.99
+2041,Rice Cracker Mix,Snacks & Package Sweet,41,1,Generic,4.5
+2042,Party Mix,Snacks & Package Sweet,42,1,Chex Mix,4.2
+2043,Animal Crackers,Snacks & Package Sweet,43,1,Barnum's,3.2
+2044,Graham Crackers,Snacks & Package Sweet,44,1,Honey Maid,4.1
+2045,Fig Newtons,Snacks & Package Sweet,45,1,Nabisco,4
+2046,Dried Mango,Snacks & Package Sweet,46,1,Generic,6.99
+2047,Dried Apricots,Snacks & Package Sweet,47,1,Generic,5.99
+2048,Raisins,Snacks & Package Sweet,48,1,Sun-Maid,3.8
+2049,Fruit Leather,Snacks & Package Sweet,49,1,Generic,1.2
+2050,Apple Sauce Cups,Snacks & Package Sweet,50,1,Mott's,3.5
+2051,Chocolate Chip Cookies,Snacks & Package Sweet,1,2,Chips Ahoy!,4.25
+2052,Oreo Cookies,Snacks & Package Sweet,2,2,Oreo,4.25
+2053,Double Stuf Oreo Cookies,Snacks & Package Sweet,3,2,Oreo,4.5
+2054,Golden Oreo Cookies,Snacks & Package Sweet,4,2,Oreo,4.25
+2055,Oatmeal Raisin Cookies,Snacks & Package Sweet,5,2,Pepperidge Farm,4.5
+2056,Shortbread Cookies,Snacks & Package Sweet,6,2,Walkers,5.5
+2057,Milano Cookies,Snacks & Package Sweet,7,2,Pepperidge Farm,4.5
+2058,Fudge Stripe Cookies,Snacks & Package Sweet,8,2,Keebler,3.99
+2059,Nutter Butter Cookies,Snacks & Package Sweet,9,2,Nabisco,4.1
+2060,Vanilla Wafers,Snacks & Package Sweet,10,2,Nilla,4
+2061,Chocolate Chip Granola Bars,Snacks & Package Sweet,11,2,Quaker,4.2
+2062,Peanut Butter Granola Bars,Snacks & Package Sweet,12,2,Quaker,4.2
+2063,Oats & Honey Granola Bars,Snacks & Package Sweet,13,2,Nature Valley,4.8
+2064,Protein Bar Chocolate Chip,Snacks & Package Sweet,14,2,Clif Bar,2.5
+2065,Protein Bar Peanut Butter,Snacks & Package Sweet,15,2,Clif Bar,2.5
+2066,Breakfast Biscuits,Snacks & Package Sweet,16,2,belVita,4.1
+2067,Rice Krispies Treats,Snacks & Package Sweet,17,2,Kellogg's,3.99
+2068,Fruit Snacks Mixed Fruit,Snacks & Package Sweet,18,2,Welch's,3.8
+2069,Gummy Bears,Snacks & Package Sweet,19,2,Haribo,1.8
+2070,Sour Gummy Worms,Snacks & Package Sweet,20,2,Trolli,1.8
+2071,Swedish Fish,Snacks & Package Sweet,21,2,Generic,1.7
+2072,Jelly Beans,Snacks & Package Sweet,22,2,Jelly Belly,3.5
+2073,Lollipops,Snacks & Package Sweet,23,2,Dum Dums,4.5
+2074,Hard Candy,Snacks & Package Sweet,24,2,Werther's Original,3.2
+2075,Life Savers,Snacks & Package Sweet,25,2,Life Savers,2.8
+2076,Chewing Gum Peppermint,Snacks & Package Sweet,26,2,Wrigley's,1.5
+2077,Chewing Gum Spearmint,Snacks & Package Sweet,27,2,Wrigley's,1.5
+2078,Bubble Gum,Snacks & Package Sweet,28,2,Hubba Bubba,1.6
+2079,Mints,Snacks & Package Sweet,29,2,Altoids,2.5
+2080,Pop-Tarts Strawberry,Snacks & Package Sweet,30,2,Kellogg's,3.8
+2081,Pop-Tarts Brown Sugar,Snacks & Package Sweet,31,2,Kellogg's,3.8
+2082,Twinkies,Snacks & Package Sweet,32,2,Hostess,4.2
+2083,Cupcakes Chocolate,Snacks & Package Sweet,33,2,Hostess,4.2
+2084,Donuts Powdered,Snacks & Package Sweet,34,2,Hostess,3.99
+2085,Honey Bun,Snacks & Package Sweet,35,2,Hostess,1.99
+2086,Brownie Bites,Snacks & Package Sweet,36,2,Entenmann's,5.5
+2087,Muffins Blueberry,Snacks & Package Sweet,37,2,Entenmann's,5.8
+2088,Swiss Rolls,Snacks & Package Sweet,38,2,Little Debbie,2.5
+2089,Oatmeal Creme Pies,Snacks & Package Sweet,39,2,Little Debbie,2.5
+2090,Fruit Pie Apple,Snacks & Package Sweet,40,2,Hostess,1.8
+2091,Pudding Cups Chocolate,Snacks & Package Sweet,41,2,Snack Pack,1.5
+2092,Pudding Cups Vanilla,Snacks & Package Sweet,42,2,Snack Pack,1.5
+2093,Gelatin Cups Strawberry,Snacks & Package Sweet,43,2,Jell-O,1.5
+2094,Cereal Bar,Snacks & Package Sweet,44,2,Nutri-Grain,3.99
+2095,Wafer Cookies Strawberry,Snacks & Package Sweet,45,2,Generic,2.5
+2096,Wafer Cookies Vanilla,Snacks & Package Sweet,46,2,Generic,2.5
+2097,Biscotti,Snacks & Package Sweet,47,2,Nonni's,4.5
+2098,Macaroons Coconut,Snacks & Package Sweet,48,2,Generic,5.2
+2099,Shortbread Fingers,Snacks & Package Sweet,49,2,Lorna Doone,4.1
+2100,Ginger Snaps,Snacks & Package Sweet,50,2,Nabisco,3.9
+2101,Milk Chocolate Bar,Snacks & Package Sweet,1,3,Hershey's,1.8
+2102,Chocolate with Almonds Bar,Snacks & Package Sweet,2,3,Hershey's,1.8
+2103,Dark Chocolate Bar,Snacks & Package Sweet,3,3,Lindt,3.5
+2104,White Chocolate Bar,Snacks & Package Sweet,4,3,Ghirardelli,3.6
+2105,Peanut Butter Cups,Snacks & Package Sweet,5,3,Reese's,1.8
+2106,Snickers Bar,Snacks & Package Sweet,6,3,Mars,1.8
+2107,Twix Bar,Snacks & Package Sweet,7,3,Mars,1.8
+2108,Kit Kat Bar,Snacks & Package Sweet,8,3,Hershey's,1.8
+2109,M&Ms Plain,Snacks & Package Sweet,9,3,M&M's,1.8
+2110,M&Ms Peanut,Snacks & Package Sweet,10,3,M&M's,1.8
+2111,Skittles,Snacks & Package Sweet,11,3,Mars,1.7
+2112,Starburst,Snacks & Package Sweet,12,3,Mars,1.7
+2113,Tootsie Rolls,Snacks & Package Sweet,13,3,Tootsie Roll,3.5
+2114,Candy Corn,Snacks & Package Sweet,14,3,Brach's,3.2
+2115,Marshmallows,Snacks & Package Sweet,15,3,Kraft,2.5
+2116,Licorice Twists,Snacks & Package Sweet,16,3,Twizzlers,2.8
+2117,Peppermint Pattie,Snacks & Package Sweet,17,3,York,1.8
+2118,Almond Joy,Snacks & Package Sweet,18,3,Hershey's,1.8
+2119,Caramel Creams,Snacks & Package Sweet,19,3,Goetze's,3.1
+2120,Milk Duds,Snacks & Package Sweet,20,3,Hershey's,1.99
+2121,Raisinets,Snacks & Package Sweet,21,3,Nestle,1.99
+2122,Whoppers,Snacks & Package Sweet,22,3,Hershey's,1.99
+2123,Ghirardelli Chocolate Squares,Snacks & Package Sweet,23,3,Ghirardelli,5.5
+2124,Dove Promises,Snacks & Package Sweet,24,3,Dove,5.2
+2125,Ferrero Rocher,Snacks & Package Sweet,25,3,Ferrero,5.8
+2126,Toblerone,Snacks & Package Sweet,26,3,Toblerone,3.2
+2127,Box of Chocolates,Snacks & Package Sweet,27,3,Russell Stover,12.99
+2128,Sugar-Free Chocolate,Snacks & Package Sweet,28,3,Russell Stover,4.5
+2129,Baking Chocolate,Snacks & Package Sweet,29,3,Baker's,3.8
+2130,Chocolate Syrup,Snacks & Package Sweet,30,3,Hershey's,3.5
+2131,Caramel Syrup,Snacks & Package Sweet,31,3,Smucker's,3.4
+2132,Strawberry Syrup,Snacks & Package Sweet,32,3,Smucker's,3.4
+2133,Ice Cream Cones,Snacks & Package Sweet,33,3,Keebler,3.1
+2134,Sprinkles,Snacks & Package Sweet,34,3,Betty Crocker,2.8
+2135,Maraschino Cherries,Snacks & Package Sweet,35,3,Generic,3.2
+2136,Microwave Popcorn Movie Theater Butter,Snacks & Package Sweet,36,3,Pop Secret,5.1
+2137,Microwave Popcorn Kettle Corn,Snacks & Package Sweet,37,3,Orville,5.2
+2138,Popcorn Kernels,Snacks & Package Sweet,38,3,Orville,4.8
+2139,Popcorn Oil,Snacks & Package Sweet,39,3,Generic,4.1
+2140,Popcorn Salt,Snacks & Package Sweet,40,3,Flavacol,5.5
+2141,Cotton Candy Tub,Snacks & Package Sweet,41,3,Generic,2.99
+2142,Rock Candy,Snacks & Package Sweet,42,3,Generic,1.5
+2143,Push Pop,Snacks & Package Sweet,43,3,Topps,1.2
+2144,Fun Dip,Snacks & Package Sweet,44,3,Wonka,1.3
+2145,Candy Necklace,Snacks & Package Sweet,45,3,Generic,1
+2146,Pixy Stix,Snacks & Package Sweet,46,3,Wonka,1.2
+2147,Smarties,Snacks & Package Sweet,47,3,Smarties,1.1
+2148,Laffy Taffy,Snacks & Package Sweet,48,3,Wonka,1.5
+2149,Airheads,Snacks & Package Sweet,49,3,Perfetti,1.4
+2150,Sour Patch Kids,Snacks & Package Sweet,50,3,Mondelez,1.9
+2151,Ring Pop,Snacks & Package Sweet,51,3,Topps,1.25
+2152,Warheads,Snacks & Package Sweet,52,3,Impact,1.6
+3001,Canned Tuna in Water,Canned Food,1,1,Starkist,1.8
+3002,Canned Tuna in Oil,Canned Food,2,1,Starkist,1.8
+3003,Canned Salmon Pink,Canned Food,3,1,Bumble Bee,3.8
+3004,Canned Chicken Breast,Canned Food,4,1,Swanson,3.5
+3005,Canned Sardines in Mustard,Canned Food,5,1,King Oscar,2.99
+3006,Canned Anchovies,Canned Food,6,1,Roland,2.5
+3007,Canned Vienna Sausages,Canned Food,7,1,Armour,1.2
+3008,Canned Corned Beef Hash,Canned Food,8,1,Hormel,4.2
+3009,Canned Spam,Canned Food,9,1,Hormel,4.5
+3010,Canned Ham,Canned Food,10,1,Generic,5.5
+3011,Canned Sweet Corn,Canned Food,11,1,Del Monte,1.5
+3012,Canned Creamed Corn,Canned Food,12,1,Del Monte,1.6
+3013,Canned Green Beans,Canned Food,13,1,Generic,1.2
+3014,Canned French Style Green Beans,Canned Food,14,1,Del Monte,1.4
+3015,Canned Peas,Canned Food,15,1,Generic,1.2
+3016,Canned Carrots,Canned Food,17,1,Generic,1.2
+3017,Canned Mixed Vegetables,Canned Food,18,1,Generic,1.3
+3018,Canned Potatoes,Canned Food,19,1,Del Monte,1.8
+3019,Canned Spinach,Canned Food,20,1,Popeye,1.9
+3020,Canned Asparagus,Canned Food,21,1,Green Giant,2.5
+3021,Canned Beets,Canned Food,22,1,Generic,1.4
+3022,Canned Sauerkraut,Canned Food,23,1,Generic,2.2
+3023,Canned Mushrooms,Canned Food,24,1,Green Giant,1.8
+3024,Canned Artichoke Hearts,Canned Food,25,1,Roland,3.5
+3025,Canned Water Chestnuts,Canned Food,26,1,La Choy,2.1
+3026,Canned Bamboo Shoots,Canned Food,27,1,La Choy,2.2
+3027,Canned Olives Black,Canned Food,28,1,Lindsay,2.8
+3028,Canned Olives Green,Canned Food,29,1,Generic,2.5
+3029,Canned Pickles,Canned Food,30,1,Vlasic,3.5
+3030,Canned Jalapenos,Canned Food,31,1,La Costena,2.1
+3031,Canned Sun-Dried Tomatoes,Canned Food,32,1,Generic,3.99
+3032,Canned Diced Tomatoes,Canned Food,33,1,Hunt's,1.5
+3033,Canned Crushed Tomatoes,Canned Food,34,1,Hunt's,1.6
+3034,Canned Whole Peeled Tomatoes,Canned Food,35,1,San Marzano,3.8
+3035,Canned Tomato Sauce,Canned Food,36,1,Hunt's,1.2
+3036,Canned Tomato Paste,Canned Food,37,1,Hunt's,1
+3037,Canned Pumpkin Puree,Canned Food,38,1,Libby's,2.8
+3038,Canned Sweet Potatoes,Canned Food,39,1,Bruce's,2.99
+3039,Canned Cranberry Sauce,Canned Food,40,1,Ocean Spray,2.5
+3040,Canned Pie Filling Apple,Canned Food,41,1,Duncan Hines,3.8
+3041,Canned Pie Filling Cherry,Canned Food,42,1,Duncan Hines,3.99
+3042,Canned Baked Beans,Canned Food,43,1,Bush's,2.5
+3043,Canned Pork and Beans,Canned Food,44,1,Van Camp's,1.8
+3044,Canned Black Beans,Canned Food,45,1,Goya,1.8
+3045,Canned Kidney Beans,Canned Food,46,1,Goya,1.8
+3046,Canned Pinto Beans,Canned Food,47,1,Goya,1.8
+3047,Canned Garbanzo Beans,Canned Food,48,1,Goya,1.9
+3048,Canned Refried Beans,Canned Food,49,1,Old El Paso,2.1
+3049,Canned Lentils,Canned Food,50,1,Generic,1.99
+3050,Chicken Noodle Soup,Canned Food,1,2,Campbell's,2.5
+3051,Tomato Soup,Canned Food,2,2,Campbell's,2.5
+3052,Cream of Mushroom Soup,Canned Food,3,2,Campbell's,2.5
+3053,Vegetable Beef Soup,Canned Food,4,2,Campbell's,2.8
+3054,New England Clam Chowder,Canned Food,5,2,Progresso,3.5
+3055,Minestrone Soup,Canned Food,6,2,Progresso,3.5
+3056,Lentil Soup,Canned Food,7,2,Amy's,3.99
+3057,Split Pea Soup,Canned Food,8,2,Amy's,3.99
+3058,Beef Broth,Canned Food,9,2,Swanson,1.8
+3059,Chicken Broth,Canned Food,10,2,Swanson,1.8
+3060,Vegetable Broth,Canned Food,11,2,Swanson,1.9
+3061,Bone Broth Chicken,Canned Food,12,2,Kettle & Fire,6.99
+3062,Ramen Noodle Soup Chicken,Canned Food,13,2,Maruchan,0.8
+3063,Ramen Noodle Soup Beef,Canned Food,14,2,Maruchan,0.8
+3064,Cup Noodles Chicken,Canned Food,15,2,Nissin,1.2
+3065,Beef Stew,Canned Food,16,2,Dinty Moore,4.8
+3066,Chicken & Dumplings,Canned Food,17,2,Dinty Moore,4.8
+3067,Chili with Beans,Canned Food,18,2,Hormel,3.5
+3068,Chili No Beans,Canned Food,19,2,Hormel,3.5
+3069,Spaghetti and Meatballs,Canned Food,20,2,Chef Boyardee,2.2
+3070,Ravioli,Canned Food,21,2,Chef Boyardee,2.2
+3071,Canned Pasta Sauce Marinara,Canned Food,22,2,Prego,3.5
+3072,Canned Pasta Sauce Traditional,Canned Food,23,2,Ragu,3.2
+3073,Canned Alfredo Sauce,Canned Food,24,2,Classico,4.1
+3074,Canned Pesto Sauce,Canned Food,25,2,Classico,4.5
+3075,Canned Pizza Sauce,Canned Food,26,2,Generic,1.8
+3076,Enchilada Sauce,Canned Food,27,2,Old El Paso,2.99
+3077,Salsa Mild,Canned Food,28,2,Pace,3.8
+3078,Salsa Medium,Canned Food,29,2,Pace,3.8
+3079,Queso Dip,Canned Food,30,2,Tostitos,4.5
+3080,Bean Dip,Canned Food,31,2,Fritos,3.2
+3081,Gravy Beef,Canned Food,32,2,Heinz,2.5
+3082,Gravy Chicken,Canned Food,33,2,Heinz,2.5
+3083,Gravy Turkey,Canned Food,34,2,Heinz,2.5
+3084,Canned Peaches Sliced,Canned Food,35,2,Del Monte,2.8
+3085,Canned Pears Halved,Canned Food,36,2,Del Monte,2.8
+3086,Canned Pineapple Chunks,Canned Food,37,2,Dole,2.5
+3087,Canned Pineapple Sliced,Canned Food,38,2,Dole,2.5
+3088,Canned Mandarin Oranges,Canned Food,39,2,Dole,2.3
+3089,Canned Fruit Cocktail,Canned Food,40,2,Del Monte,2.9
+3090,Canned Tropical Fruit Salad,Canned Food,41,2,Dole,3.1
+3091,Canned Applesauce,Canned Food,42,2,Mott's,3.2
+3092,Canned Evaporated Milk,Canned Food,43,2,Carnation,2.1
+3093,Canned Sweetened Condensed Milk,Canned Food,44,2,Eagle Brand,2.8
+3094,Canned Coconut Milk,Canned Food,45,2,Thai Kitchen,3.5
+3095,Canned Coconut Cream,Canned Food,46,2,Thai Kitchen,3.8
+3096,Canned Dog Food Beef,Canned Food,47,2,Pedigree,1.8
+3097,Canned Dog Food Chicken,Canned Food,48,2,Pedigree,1.8
+3098,Canned Cat Food Tuna,Canned Food,49,2,Friskies,1.1
+3099,Canned Cat Food Salmon,Canned Food,50,2,Friskies,1.1
+3100,Chicken Noodle Soup Condensed,Canned Food,1,3,Campbell's,1.8
+3101,Tomato Soup Condensed,Canned Food,2,3,Campbell's,1.8
+3102,Cream of Mushroom Condensed,Canned Food,3,3,Campbell's,1.8
+3103,Cream of Chicken Condensed,Canned Food,4,3,Campbell's,1.8
+3104,Bean with Bacon Soup,Canned Food,5,3,Campbell's,2.2
+3105,French Onion Soup,Canned Food,6,3,Campbell's,2.2
+3106,Manhattan Clam Chowder,Canned Food,7,3,Progresso,3.5
+3107,Italian Wedding Soup,Canned Food,8,3,Progresso,3.5
+3108,Organic Tomato Soup,Canned Food,9,3,Amy's,4.1
+3109,Organic Lentil Vegetable Soup,Canned Food,10,3,Amy's,4.1
+3110,Bouillon Cubes Beef,Canned Food,11,3,Knorr,2.5
+3111,Bouillon Cubes Chicken,Canned Food,12,3,Knorr,2.5
+3112,Miso Soup Paste,Canned Food,13,3,Generic,4.99
+3113,Tom Yum Soup Paste,Canned Food,14,3,Generic,5.2
+3114,Pho Broth Base,Canned Food,15,3,Generic,4.8
+3115,Generic Chili with Beans,Canned Food,16,3,Generic,2.5
+3116,Vegetarian Chili,Canned Food,17,3,Amy's,4.2
+3117,White Chicken Chili,Canned Food,18,3,Progresso,3.8
+3118,Generic Ravioli,Canned Food,19,3,Generic,1.8
+3119,Lasagna in can,Canned Food,20,3,Chef Boyardee,2.5
+3120,Mini Ravioli,Canned Food,21,3,Chef Boyardee,2.2
+3121,Generic Pasta Sauce,Canned Food,22,3,Generic,2.2
+3122,Vodka Sauce,Canned Food,23,3,Classico,4.2
+3123,Arrabbiata Sauce,Canned Food,24,3,Rao's,8.99
+3124,Marinara Sauce,Canned Food,25,3,Rao's,8.99
+3125,Sloppy Joe Sauce,Canned Food,26,3,Manwich,1.99
+3126,Curry Sauce Tikka Masala,Canned Food,27,3,Patak's,4.5
+3127,Thai Green Curry Paste,Canned Food,28,3,Maesri,3.2
+3128,Red Curry Paste,Canned Food,29,3,Maesri,3.2
+3129,Gochujang Paste,Canned Food,30,3,Generic,5.99
+3130,Hoisin Sauce,Canned Food,31,3,Lee Kum Kee,4.1
+3131,Oyster Sauce,Canned Food,32,3,Lee Kum Kee,3.99
+3132,Fish Sauce,Canned Food,33,3,Red Boat,6.5
+3133,Capers,Canned Food,34,3,Generic,3.1
+3134,Pimentos,Canned Food,35,3,Generic,2.2
+3135,Roasted Red Peppers,Canned Food,36,3,Generic,3.8
+3136,Hearts of Palm,Canned Food,37,3,Generic,3.5
+3137,Cornichons,Canned Food,38,3,Maille,4.5
+3138,Pickled Ginger,Canned Food,39,3,Generic,3.99
+3139,Pickled Okra,Canned Food,40,3,Generic,3.8
+3140,Giardiniera,Canned Food,41,3,Generic,4.2
+3141,Chutney Mango,Canned Food,42,3,Patak's,4.1
+3142,Cranberry Jelly,Canned Food,43,3,Generic,2.2
+3143,Apple Butter,Canned Food,44,3,Generic,3.8
+3144,Pumpkin Butter,Canned Food,45,3,Generic,4.2
+3145,Hummus,Canned Food,46,3,Sabra,4.5
+3146,Baba Ghanoush,Canned Food,47,3,Generic,4.8
+3147,Tapenade,Canned Food,48,3,Generic,5.1
+3148,Bruschetta Topping,Canned Food,49,3,Generic,4.99
+3149,Ghee (Clarified Butter),Canned Food,50,3,Generic,9.99
+4001,Cheerios Cereal,Grains,1,1,General Mills,5.99
+4002,Honey Nut Cheerios Cereal,Grains,2,1,General Mills,5.99
+4003,Frosted Flakes Cereal,Grains,3,1,Kellogg's,5.89
+4004,Froot Loops Cereal,Grains,4,1,Kellogg's,5.89
+4005,Lucky Charms Cereal,Grains,5,1,General Mills,6.1
+4006,Cinnamon Toast Crunch Cereal,Grains,6,1,General Mills,6.1
+4007,Raisin Bran Cereal,Grains,7,1,Post,5.79
+4008,Corn Flakes Cereal,Grains,8,1,Kellogg's,5.5
+4009,Rice Krispies Cereal,Grains,9,1,Kellogg's,5.6
+4010,Special K Cereal,Grains,10,1,Kellogg's,5.99
+4011,Shredded Wheat Cereal,Grains,11,1,Post,5.4
+4012,Grape-Nuts Cereal,Grains,12,1,Post,5.8
+4013,Life Cereal,Grains,13,1,Quaker,5.7
+4014,Cap'n Crunch Cereal,Grains,14,1,Quaker,5.6
+4015,Reese's Puffs Cereal,Grains,15,1,General Mills,6.2
+4016,Cocoa Puffs Cereal,Grains,16,1,General Mills,6.1
+4017,Trix Cereal,Grains,17,1,General Mills,6
+4018,Kix Cereal,Grains,18,1,General Mills,5.8
+4019,Chex Rice Cereal,Grains,19,1,General Mills,5.9
+4020,Wheaties Cereal,Grains,20,1,General Mills,5.95
+4021,Honey Bunches of Oats,Grains,21,1,Post,5.85
+4022,Generic Frosted Flakes,Grains,22,1,Generic,4.5
+4023,Generic Toasted Oats,Grains,23,1,Generic,4.6
+4024,Granola Oats & Honey,Grains,25,1,Nature Valley,5.5
+4025,Granola Fruit & Nut,Grains,26,1,Generic,4.99
+4026,Kashi Go Lean Cereal,Grains,27,1,Kashi,6.5
+4027,Barbara's Puffins Cereal,Grains,28,1,Barbara's,5.99
+4028,Muesli,Grains,29,1,Bob's Red Mill,6.8
+4029,Cream of Wheat,Grains,30,1,B&G Foods,4.5
+4030,Grits,Grains,31,1,Quaker,3.99
+4031,Quick Oats,Grains,32,1,Quaker,5.5
+4032,Old Fashioned Rolled Oats,Grains,33,1,Quaker,5.8
+4033,Steel Cut Oats,Grains,34,1,Bob's Red Mill,6.99
+4034,Instant Oatmeal Original,Grains,35,1,Quaker,4.2
+4035,Instant Oatmeal Maple Brown Sugar,Grains,36,1,Quaker,4.2
+4036,Instant Oatmeal Apples & Cinnamon,Grains,37,1,Quaker,4.2
+4037,Farina,Grains,38,1,Malt-O-Meal,4.1
+4038,Organic Puffed Rice Cereal,Grains,39,1,Arrowhead Mills,5.5
+4039,Organic Corn Flakes,Grains,40,1,Nature's Path,6.1
+4040,Gluten-Free Granola,Grains,41,1,Udi's,6.8
+4041,Paleo Friendly Cereal,Grains,42,1,Generic,7.5
+4042,Keto Friendly Cereal,Grains,43,1,Magic Spoon,9.99
+4043,High Fiber Bran Cereal,Grains,44,1,Fiber One,6.2
+4044,Cereal Variety Pack,Grains,45,1,Kellogg's,7.5
+4045,Oat Bran,Grains,46,1,Bob's Red Mill,4.8
+4046,Wheat Germ,Grains,47,1,Kretschmer,5.1
+4047,Barley Flakes,Grains,48,1,Generic,4.99
+4048,Amaranth Flakes,Grains,49,1,Generic,5.5
+4049,Buckwheat Cereal,Grains,50,1,Pocono,6.2
+4051,Long Grain White Rice 5lb,Grains,1,2,Generic,8.99
+4052,Brown Rice 2lb,Grains,2,2,Uncle Ben's,4.5
+4053,Jasmine Rice 5lb,Grains,3,2,Generic,9.99
+4054,Basmati Rice 5lb,Grains,4,2,Royal,11.99
+4055,Arborio Rice,Grains,5,2,Lundberg,6.5
+4056,Wild Rice,Grains,6,2,Generic,7.2
+4057,Instant White Rice,Grains,7,2,Minute Rice,3.8
+4058,Quinoa,Grains,8,2,Bob's Red Mill,8.5
+4059,Couscous,Grains,9,2,Near East,3.2
+4060,Bulgur Wheat,Grains,10,2,Bob's Red Mill,5.8
+4061,Barley,Grains,11,2,Generic,4.5
+4062,Farro,Grains,12,2,Generic,6.1
+4063,Lentils Green,Grains,13,2,Goya,3.5
+4064,Lentils Red,Grains,14,2,Goya,3.6
+4065,Split Peas,Grains,15,2,Goya,3.2
+4066,Spaghetti,Grains,16,2,Barilla,2.5
+4067,Penne,Grains,17,2,Barilla,2.5
+4068,Fusilli,Grains,18,2,Barilla,2.5
+4069,Angel Hair,Grains,19,2,De Cecco,2.8
+4070,Fettuccine,Grains,20,2,De Cecco,2.8
+4071,Lasagna Noodles,Grains,21,2,Barilla,3.1
+4072,Elbow Macaroni,Grains,22,2,Generic,1.8
+4073,Rotini,Grains,23,2,Generic,1.8
+4074,Whole Wheat Spaghetti,Grains,24,2,Barilla,2.9
+4075,Gluten-Free Penne,Grains,25,2,Barilla,3.5
+4076,Egg Noodles,Grains,26,2,Generic,2.99
+4077,Orzo,Grains,27,2,DeLallo,3.1
+4078,Gnocchi,Grains,28,2,DeLallo,4.2
+4079,Macaroni & Cheese Box,Grains,29,2,Kraft,1.8
+4080,Deluxe Mac & Cheese,Grains,30,2,Kraft,4.5
+4081,Pasta Salad Box,Grains,31,2,Suddenly Salad,3.2
+4082,Rice-A-Roni Chicken,Grains,32,2,Rice-A-Roni,2.1
+4083,Rice Pilaf Mix,Grains,33,2,Near East,3.1
+4084,Stuffing Mix Chicken,Grains,34,2,Stove Top,2.8
+4085,Stuffing Mix Turkey,Grains,35,2,Stove Top,2.8
+4086,Mashed Potato Flakes,Grains,36,2,Idahoan,3.5
+4087,Scalloped Potato Box,Grains,37,2,Betty Crocker,2.99
+4088,Hamburger Helper,Grains,38,2,Betty Crocker,2.5
+4089,Tuna Helper,Grains,39,2,Betty Crocker,2.5
+4090,Polenta,Grains,40,2,Generic,4.8
+4091,Masa Harina,Grains,41,2,Maseca,5.2
+4092,Cornmeal,Grains,42,2,Quaker,3.99
+4093,Semolina Flour,Grains,43,2,Bob's Red Mill,5.1
+4094,Udon Noodles,Grains,44,2,Generic,4.5
+4095,Soba Noodles,Grains,45,2,Generic,4.8
+4096,Ramen Noodles Pack,Grains,46,2,Top Ramen,0.75
+4097,Rice Vermicelli,Grains,47,2,Generic,3.99
+4098,Bean Thread Noodles,Grains,48,2,Generic,4.1
+4099,Wonton Wrappers,Grains,49,2,Generic,3.8
+4100,Egg Roll Wrappers,Grains,50,2,Generic,3.9
+4101,White Bread,Grains,1,3,Wonder,3.5
+4102,Whole Wheat Bread,Grains,2,3,Nature's Own,3.8
+4103,Rye Bread,Grains,3,3,Pepperidge Farm,4.2
+4104,Sourdough Bread,Grains,4,3,Pepperidge Farm,4.2
+4105,Multigrain Bread,Grains,5,3,Arnold,4.1
+4106,Italian Bread,Grains,6,3,Generic Bakery,3.99
+4107,Hamburger Buns,Grains,7,3,Generic,2.99
+4108,Hot Dog Buns,Grains,8,3,Generic,2.99
+4109,Bagels Plain,Grains,9,3,Thomas',4.5
+4110,Bagels Everything,Grains,10,3,Thomas',4.5
+4111,English Muffins,Grains,11,3,Thomas',4.2
+4112,Flour Tortillas,Grains,12,3,Mission,3.8
+4113,Corn Tortillas,Grains,13,3,Mission,2.99
+4114,Pita Bread,Grains,15,3,Generic Bakery,3.5
+4115,Naan Bread,Grains,16,3,Stonefire,4.1
+4116,Bread Crumbs Plain,Grains,17,3,4C,2.8
+4117,Bread Crumbs Italian,Grains,18,3,4C,2.8
+4118,Panko Bread Crumbs,Grains,19,3,Kikkoman,3.2
+4119,Croutons Caesar,Grains,20,3,Fresh Gourmet,2.5
+4120,Croutons Cheese & Garlic,Grains,21,3,Fresh Gourmet,2.5
+4121,Pancake Mix Original,Grains,22,3,Bisquick,4.8
+4122,Pancake Mix Buttermilk,Grains,23,3,Krusteaz,4.5
+4123,Waffle Mix,Grains,24,3,Krusteaz,4.6
+4124,Yellow Cake Mix,Grains,25,3,Betty Crocker,2.2
+4125,Chocolate Cake Mix,Grains,26,3,Betty Crocker,2.2
+4126,Brownie Mix,Grains,27,3,Ghirardelli,4.5
+4127,Chocolate Chip Cookie Mix,Grains,28,3,Betty Crocker,3.2
+4128,Muffin Mix Blueberry,Grains,29,3,Krusteaz,3.5
+4129,Cornbread Mix,Grains,30,3,Jiffy,1.2
+4130,Pizza Crust Mix,Grains,31,3,Jiffy,1.8
+4131,Pie Crust,Grains,32,3,Pillsbury,4.2
+4132,Frosting Chocolate,Grains,33,3,Duncan Hines,2.5
+4133,Frosting Vanilla,Grains,34,3,Duncan Hines,2.5
+4134,Dinner Rolls,Grains,35,3,King's Hawaiian,4.8
+4135,Croissants,Grains,36,3,Generic Bakery,5.5
+4136,Brioche Buns,Grains,37,3,Generic Bakery,4.99
+4137,Hoagie Rolls,Grains,38,3,Amoroso's,3.99
+4138,Lavash Bread,Grains,39,3,Generic,4.1
+4139,Matzo,Grains,40,3,Manischewitz,5.2
+4140,Tortilla Chips,Grains,41,3,Tostitos,4.99
+4141,Hard Taco Shells,Grains,42,3,Old El Paso,2.8
+4142,Soft Taco Shells,Grains,43,3,Old El Paso,3.1
+4143,Tortilla Strips for Salad,Grains,44,3,Fresh Gourmet,2.8
+4144,Rice Paper Wrappers,Grains,45,3,Generic,3.5
+4145,Saltine Crackers,Grains,46,3,Nabisco,3.99
+4146,Graham Crackers,Grains,47,3,Honey Maid,4.1
+4147,Ice Cream Cones,Grains,48,3,Keebler,3.1
+4148,Waffle Bowls,Grains,49,3,Keebler,3.5
+4149,Flatbread Crackers,Grains,50,3,Generic,4.2
+5001,All-Purpose Flour 5lb,Staples,1,1,Gold Medal,5.1
+5002,Bread Flour 5lb,Staples,2,1,King Arthur,6.5
+5003,Whole Wheat Flour 5lb,Staples,3,1,King Arthur,6.2
+5004,Self-Rising Flour 5lb,Staples,4,1,Gold Medal,5.5
+5005,Gluten-Free Flour,Staples,5,1,Bob's Red Mill,7.99
+5006,Almond Flour,Staples,6,1,Bob's Red Mill,11.99
+5007,Coconut Flour,Staples,7,1,Anthony's,8.99
+5008,Granulated Sugar 4lb,Staples,8,1,Domino,4.8
+5009,Light Brown Sugar 2lb,Staples,9,1,Domino,3.5
+5010,Dark Brown Sugar 2lb,Staples,10,1,Domino,3.5
+5011,Powdered Sugar 2lb,Staples,11,1,Domino,3.6
+5012,Cane Sugar,Staples,12,1,C&H,5.1
+5013,Turbinado Sugar,Staples,13,1,Sugar In The Raw,4.8
+5014,Stevia Sweetener,Staples,14,1,Truvia,7.2
+5015,Splenda Sweetener,Staples,15,1,Splenda,6.5
+5016,Monkfruit Sweetener,Staples,16,1,Lakanto,8.5
+5017,Baking Powder,Staples,17,1,Clabber Girl,2.5
+5018,Baking Soda,Staples,18,1,Arm & Hammer,1.5
+5019,Corn Starch,Staples,19,1,Argo,2.1
+5020,Active Dry Yeast,Staples,20,1,Fleischmann's,2.8
+5021,Vanilla Extract,Staples,21,1,McCormick,8.99
+5022,Almond Extract,Staples,22,1,McCormick,5.5
+5023,Lemon Extract,Staples,23,1,McCormick,5.2
+5024,Food Coloring Assorted,Staples,24,1,McCormick,4.5
+5025,Semi-Sweet Chocolate Chips,Staples,25,1,Nestle,4.2
+5026,Milk Chocolate Chips,Staples,26,1,Hershey's,4.1
+5027,White Chocolate Chips,Staples,27,1,Ghirardelli,4.8
+5028,Baking Cocoa Powder,Staples,28,1,Hershey's,4.5
+5029,Shredded Coconut,Staples,29,1,Baker's,3.2
+5030,Chopped Walnuts,Staples,30,1,Diamond,7.5
+5031,Pecan Halves,Staples,31,1,Diamond,8.2
+5032,Sliced Almonds,Staples,32,1,Generic,6.99
+5033,Sprinkles Rainbow,Staples,33,1,Betty Crocker,3.2
+5034,Evaporated Milk,Staples,34,1,Carnation,2.1
+5035,Sweetened Condensed Milk,Staples,35,1,Eagle Brand,2.8
+5036,Marshmallow Creme,Staples,36,1,Kraft Jet-Puffed,2.99
+5037,Honey,Staples,37,1,Generic,5.99
+5038,Molasses,Staples,38,1,Grandma's,4.2
+5039,Corn Syrup,Staples,40,1,Karo,3.8
+5040,Maple Syrup,Staples,41,1,Log Cabin,6.5
+5041,Pure Maple Syrup,Staples,42,1,Generic,12.99
+5042,Agave Nectar,Staples,43,1,Generic,6.5
+5043,Non-stick Cooking Spray,Staples,44,1,PAM,4.8
+5044,Crisco Shortening,Staples,45,1,Crisco,5.5
+5045,Lard,Staples,46,1,Armour,4.99
+5046,Gelatin Unflavored,Staples,47,1,Knox,2.8
+5047,Jell-O Strawberry,Staples,48,1,Jell-O,1.5
+5048,Pudding Mix Chocolate,Staples,49,1,Jell-O,1.6
+5049,Meringue Powder,Staples,50,1,Wilton,7.5
+5051,Olive Oil Extra Virgin,Staples,1,2,Bertolli,11.5
+5052,Canola Oil,Staples,2,2,Wesson,6.5
+5053,Vegetable Oil,Staples,3,2,Generic,5.8
+5054,Coconut Oil,Staples,4,2,Nutiva,9.99
+5055,Avocado Oil,Staples,5,2,Chosen Foods,12.5
+5056,Sesame Oil,Staples,6,2,La Choy,5.2
+5057,Peanut Oil,Staples,7,2,Planters,7.8
+5058,Balsamic Vinegar,Staples,8,2,Colavita,7.2
+5059,Apple Cider Vinegar,Staples,9,2,Bragg,6.5
+5060,White Distilled Vinegar,Staples,10,2,Heinz,3.2
+5061,Red Wine Vinegar,Staples,11,2,Generic,3.8
+5062,Rice Vinegar,Staples,12,2,Marukan,4.1
+5063,Ketchup,Staples,13,2,Heinz,4.99
+5064,Yellow Mustard,Staples,14,2,French's,2.8
+5065,Dijon Mustard,Staples,15,2,Grey Poupon,4.2
+5066,Mayonnaise,Staples,16,2,Hellmann's,5.99
+5067,Miracle Whip,Staples,17,2,Kraft,5.5
+5068,Sweet Relish,Staples,18,2,Vlasic,2.99
+5069,Dill Relish,Staples,19,2,Vlasic,2.99
+5070,Ranch Dressing,Staples,20,2,Hidden Valley,4.8
+5071,Italian Dressing,Staples,21,2,Wish-Bone,4.2
+5072,Caesar Dressing,Staples,22,2,Newman's Own,4.5
+5073,Blue Cheese Dressing,Staples,23,2,Ken's,4.3
+5074,Vinaigrette Dressing,Staples,24,2,Generic,3.99
+5075,Thousand Island Dressing,Staples,25,2,Kraft,4.1
+5076,Soy Sauce,Staples,26,2,Kikkoman,3.8
+5077,Teriyaki Sauce,Staples,27,2,Kikkoman,4.2
+5078,Worcestershire Sauce,Staples,28,2,Lea & Perrins,4.5
+5079,Hot Sauce,Staples,29,2,Tabasco,2.5
+5080,Sriracha,Staples,30,2,Huy Fong,4.8
+5081,BBQ Sauce Original,Staples,31,2,Sweet Baby Ray's,3.5
+5082,BBQ Sauce Honey,Staples,32,2,Sweet Baby Ray's,3.5
+5083,Steak Sauce,Staples,33,2,A.1.,5.5
+5084,Tartar Sauce,Staples,34,2,Kraft,3.8
+5085,Cocktail Sauce,Staples,35,2,Generic,3.2
+5086,Peanut Butter Creamy,Staples,36,2,Jif,4.5
+5087,Peanut Butter Crunchy,Staples,37,2,Jif,4.5
+5088,Natural Peanut Butter,Staples,38,2,Smucker's,4.8
+5089,Almond Butter,Staples,39,2,Justin's,9.99
+5090,Grape Jelly,Staples,40,2,Welch's,3.5
+5091,Strawberry Jam,Staples,41,2,Smucker's,3.6
+5092,Orange Marmalade,Staples,42,2,Bonne Maman,5.2
+5093,Nutella,Staples,43,2,Ferrero,4.99
+5094,Pickles Dill Spears,Staples,44,2,Vlasic,4.2
+5095,Pickles Bread & Butter,Staples,45,2,Vlasic,4.2
+5096,Olives Black,Staples,46,2,Lindsay,3.8
+5097,Olives Green Stuffed,Staples,47,2,Generic,3.5
+5098,Capers,Staples,48,2,Generic,3.1
+5099,Maraschino Cherries,Staples,49,2,Generic,3.2
+5100,Ice Cream Topping Chocolate,Staples,50,2,Hershey's,3.8
+5101,Table Salt,Staples,1,3,Morton,1.8
+5102,Sea Salt,Staples,2,3,Morton,3.2
+5103,Kosher Salt,Staples,3,3,Diamond Crystal,4.1
+5104,Black Peppercorns Grinder,Staples,4,3,McCormick,4.5
+5105,Ground Black Pepper,Staples,5,3,McCormick,3.8
+5106,Garlic Powder,Staples,6,3,McCormick,3.5
+5107,Onion Powder,Staples,7,3,McCormick,3.5
+5108,Paprika,Staples,8,3,McCormick,3.8
+5109,Cayenne Pepper,Staples,9,3,McCormick,3.99
+5110,Chili Powder,Staples,10,3,McCormick,3.9
+5111,Cumin,Staples,11,3,McCormick,4.1
+5112,Oregano,Staples,12,3,McCormick,3.2
+5113,Basil,Staples,13,3,McCormick,3.2
+5114,Thyme,Staples,14,3,McCormick,3.5
+5115,Rosemary,Staples,15,3,McCormick,3.5
+5116,Bay Leaves,Staples,16,3,McCormick,4.2
+5117,Cinnamon,Staples,17,3,McCormick,3.8
+5118,Nutmeg,Staples,18,3,McCormick,4.5
+5119,Ginger,Staples,19,3,McCormick,3.9
+5120,Red Pepper Flakes,Staples,20,3,McCormick,3.6
+5121,Italian Seasoning,Staples,21,3,McCormick,4.1
+5122,Taco Seasoning Mix,Staples,22,3,Old El Paso,1.5
+5123,Ranch Seasoning Mix,Staples,23,3,Hidden Valley,2.1
+5124,Onion Soup Mix,Staples,24,3,Lipton,1.99
+5125,Gravy Mix Brown,Staples,25,3,McCormick,1.8
+5126,Gravy Mix Chicken,Staples,26,3,McCormick,1.8
+5127,Bouillon Cubes Beef,Staples,27,3,Knorr,2.8
+5128,Bouillon Cubes Chicken,Staples,28,3,Knorr,2.8
+5129,Everything Bagel Seasoning,Staples,29,3,Trader Joe's,3.5
+5130,Lemon Pepper Seasoning,Staples,30,3,Lawry's,4.2
+5131,Seasoned Salt,Staples,31,3,Lawry's,3.99
+5132,Meat Tenderizer,Staples,32,3,Adolph's,4.5
+5133,Old Bay Seasoning,Staples,33,3,Old Bay,4.8
+5134,Cream of Tartar,Staples,34,3,McCormick,4.1
+5135,Poppy Seeds,Staples,35,3,McCormick,4.2
+5136,Sesame Seeds,Staples,36,3,McCormick,3.99
+5137,Celery Salt,Staples,37,3,McCormick,3.2
+5138,Curry Powder,Staples,38,3,McCormick,4.1
+5139,Garam Masala,Staples,39,3,Generic,4.5
+5140,Turmeric,Staples,40,3,McCormick,3.9
+5141,Saffron,Staples,41,3,Generic,15.99
+5142,Cloves,Staples,42,3,McCormick,4.8
+5143,Allspice,Staples,43,3,McCormick,4.3
+5144,Mustard Seed,Staples,44,3,McCormick,3.1
+5145,Dill Weed,Staples,45,3,McCormick,3.4
+5146,Coriander,Staples,46,3,McCormick,3.8
+5147,MSG,Staples,47,3,Ajinomoto,3.5
+5148,Liquid Smoke,Staples,48,3,Colgin,2.99
+5149,Kitchen Bouquet,Staples,49,3,Generic,3.2
+5150,Mushroom Seasoning,Staples,50,3,Generic,5.5
+6001,Paper Towels 6-pack,Household & Cleaning,1,1,Bounty,14.5
+6002,Paper Towels Single Roll,Household & Cleaning,2,1,Bounty,2.99
+6003,Generic Paper Towels 6-pack,Household & Cleaning,3,1,Generic,9.99
+6004,Toilet Paper 12-pack Mega Rolls,Household & Cleaning,4,1,Charmin,18.99
+6005,Toilet Paper 12-pack Double Rolls,Household & Cleaning,5,1,Scott,12.99
+6006,Generic Toilet Paper 12-pack,Household & Cleaning,6,1,Generic,9.5
+6007,Facial Tissues Box,Household & Cleaning,7,1,Kleenex,2.5
+6008,Facial Tissues with Lotion,Household & Cleaning,8,1,Puffs,2.8
+6009,Paper Napkins 200ct,Household & Cleaning,9,1,Vanity Fair,4.2
+6010,Paper Plates 50ct,Household & Cleaning,10,1,Dixie,5.5
+6011,Heavy Duty Paper Plates 30ct,Household & Cleaning,11,1,Dixie,6.2
+6012,Paper Bowls 30ct,Household & Cleaning,12,1,Dixie,5.8
+6013,Plastic Cups 50ct,Household & Cleaning,13,1,Solo,6.1
+6014,Plastic Silverware Set,Household & Cleaning,14,1,Generic,5.5
+6015,Coffee Filters 100ct,Household & Cleaning,15,1,Melitta,3.8
+6016,Plastic Wrap 200sq ft,Household & Cleaning,16,1,Saran,4.5
+6017,Aluminum Foil 75sq ft,Household & Cleaning,17,1,Reynolds,5.2
+6018,Heavy Duty Aluminum Foil,Household & Cleaning,18,1,Reynolds,6.5
+6019,Parchment Paper,Household & Cleaning,19,1,Reynolds,4.8
+6020,Wax Paper,Household & Cleaning,20,1,Generic,3.5
+6021,Tall Kitchen Trash Bags 45ct,Household & Cleaning,21,1,Glad,12.25
+6022,Large Outdoor Trash Bags 30ct,Household & Cleaning,22,1,Hefty,14.5
+6023,Food Storage Bags Gallon,Household & Cleaning,23,1,Ziploc,5.8
+6024,Food Storage Bags Quart,Household & Cleaning,24,1,Ziploc,5.5
+6025,Sandwich Bags,Household & Cleaning,25,1,Ziploc,4.99
+6026,Food Storage Containers Variety Pack,Household & Cleaning,26,1,Glad,9.99
+6027,Disposable Baking Pans,Household & Cleaning,27,1,Generic,4.5
+6028,Water Filter Pitcher Refill,Household & Cleaning,28,1,Brita,8.99
+6029,Lunch Bags Brown Paper,Household & Cleaning,29,1,Generic,3.2
+6030,Straws,Household & Cleaning,30,1,Generic,2.5
+6031,Toothpicks,Household & Cleaning,31,1,Generic,1.8
+6032,Sponges 3-pack,Household & Cleaning,32,1,Scotch-Brite,3.99
+6033,Scouring Pads,Household & Cleaning,33,1,Brillo,3.5
+6034,Dish Brush,Household & Cleaning,34,1,OXO,6.99
+6035,Rubber Gloves,Household & Cleaning,35,1,Playtex,4.2
+6036,Microfiber Cloths,Household & Cleaning,36,1,Generic,7.5
+6037,Duster,Household & Cleaning,37,1,Swiffer,9.99
+6038,Duster Refills,Household & Cleaning,38,1,Swiffer,12.5
+6039,Broom and Dustpan Set,Household & Cleaning,40,1,OXO,24.99
+6040,Mop,Household & Cleaning,41,1,O-Cedar,29.99
+6041,Mop Refill Head,Household & Cleaning,42,1,O-Cedar,8.99
+6042,Bucket,Household & Cleaning,43,1,Generic,5.99
+6043,Lint Roller,Household & Cleaning,44,1,Evercare,4.5
+6044,Plunger,Household & Cleaning,45,1,Generic,9.99
+6045,Toilet Brush,Household & Cleaning,46,1,Clorox,7.99
+6046,Spray Bottle,Household & Cleaning,47,1,Generic,2.99
+6047,Clothes Pins,Household & Cleaning,48,1,Generic,3.1
+6048,Hangers 10-pack,Household & Cleaning,49,1,Generic,8.99
+6049,Shoe Polish,Household & Cleaning,50,1,Kiwi,5.5
+6051,Dish Soap Original,Household & Cleaning,1,2,Dawn,4.75
+6052,Dish Soap Lemon,Household & Cleaning,2,2,Palmolive,4.5
+6053,Dishwasher Pods Platinum,Household & Cleaning,3,2,Cascade,15.5
+6054,Dishwasher Gel,Household & Cleaning,4,2,Cascade,12.99
+6055,Dishwasher Rinse Aid,Household & Cleaning,5,2,Finish,6.5
+6056,All-Purpose Cleaner Lemon,Household & Cleaning,6,2,Lysol,5.5
+6057,All-Purpose Cleaner Pine,Household & Cleaning,7,2,Pine-Sol,5.8
+6058,Disinfectant Spray,Household & Cleaning,8,2,Lysol,7.99
+6059,Disinfecting Wipes,Household & Cleaning,9,2,Clorox,6.5
+6060,Glass Cleaner,Household & Cleaning,10,2,Windex,5.1
+6061,Bathroom Cleaner,Household & Cleaning,11,2,Scrubbing Bubbles,5.2
+6062,Toilet Bowl Cleaner,Household & Cleaning,12,2,Clorox,4.1
+6063,Shower Cleaner Daily,Household & Cleaning,13,2,Method,4.8
+6064,Mold & Mildew Remover,Household & Cleaning,14,2,Tilex,5.99
+6065,Floor Cleaner Multi-Surface,Household & Cleaning,15,2,Mr. Clean,6.2
+6066,Wood Floor Cleaner,Household & Cleaning,16,2,Bona,11.99
+6067,Carpet Cleaner Spray,Household & Cleaning,17,2,Resolve,7.5
+6068,Furniture Polish,Household & Cleaning,18,2,Pledge,5.8
+6069,Stainless Steel Cleaner,Household & Cleaning,19,2,Weiman,6.99
+6070,Granite Cleaner,Household & Cleaning,20,2,Weiman,6.8
+6071,Drain Cleaner,Household & Cleaning,21,2,Drano,7.2
+6072,Oven Cleaner,Household & Cleaning,22,2,Easy-Off,6.5
+6073,Bleach,Household & Cleaning,23,2,Clorox,5.99
+6074,Magic Eraser,Household & Cleaning,24,2,Mr. Clean,4.5
+6075,Goo Gone,Household & Cleaning,25,2,Goo Gone,6.1
+6076,WD-40,Household & Cleaning,26,2,WD-40,7.2
+6077,Laundry Detergent Original,Household & Cleaning,27,2,Tide,18.99
+6078,Laundry Detergent Pods,Household & Cleaning,28,2,Tide,19.99
+6079,Laundry Detergent Free & Clear,Household & Cleaning,29,2,All,14.99
+6080,Fabric Softener Liquid,Household & Cleaning,30,2,Downy,11.99
+6081,Dryer Sheets,Household & Cleaning,31,2,Bounce,10.99
+6082,Stain Remover Spray,Household & Cleaning,32,2,Shout,4.8
+6083,OxiClean Stain Remover,Household & Cleaning,33,2,OxiClean,9.99
+6084,Color Safe Bleach,Household & Cleaning,34,2,Clorox 2,10.5
+6085,Scent Booster Beads,Household & Cleaning,35,2,Downy,12.5
+6086,Wool Dryer Balls,Household & Cleaning,36,2,Generic,8.99
+6087,Delicate Wash,Household & Cleaning,37,2,Woolite,9.8
+6088,Starch Spray,Household & Cleaning,38,2,Niagara,3.5
+6089,Air Freshener Spray,Household & Cleaning,39,2,Febreze,4.2
+6090,Air Freshener Plug-in,Household & Cleaning,40,2,Glade,5.8
+6091,Candle,Household & Cleaning,41,2,Yankee Candle,19.99
+6092,Matches,Household & Cleaning,42,2,Generic,1.5
+6093,Lighter,Household & Cleaning,43,2,Bic,2.8
+6094,Insect Killer Spray,Household & Cleaning,44,2,Raid,7.5
+6095,Ant Baits,Household & Cleaning,46,2,Terro,6.99
+6096,Mouse Traps,Household & Cleaning,47,2,Tomcat,4.5
+6097,Fly Swatter,Household & Cleaning,48,2,Generic,1.99
+6098,Citronella Candle,Household & Cleaning,49,2,Cutter,8.5
+6099,Charcoal,Household & Cleaning,50,2,Kingsford,12.99
+6100,Lighter Fluid,Household & Cleaning,51,2,Kingsford,5.5
+6101,AA Batteries 8-pack,Household & Cleaning,1,3,Duracell,9.99
+6102,AAA Batteries 8-pack,Household & Cleaning,2,3,Duracell,9.99
+6103,9V Batteries 2-pack,Household & Cleaning,4,3,Energizer,8.5
+6104,C Batteries 2-pack,Household & Cleaning,5,3,Energizer,7.99
+6105,D Batteries 2-pack,Household & Cleaning,6,3,Energizer,7.99
+6106,Light Bulbs 60W 4-pack,Household & Cleaning,7,3,GE,8.5
+6107,LED Light Bulbs 60W 4-pack,Household & Cleaning,8,3,Philips,12.99
+6108,Halogen Light Bulbs,Household & Cleaning,9,3,GE,9.2
+6109,Night Light,Household & Cleaning,10,3,Generic,4.5
+6110,Extension Cord,Household & Cleaning,11,3,Generic,11.99
+6111,Power Strip,Household & Cleaning,12,3,Generic,14.99
+6112,Duct Tape,Household & Cleaning,13,3,Gorilla,7.5
+6113,Scotch Tape,Household & Cleaning,14,3,3M,3.2
+6114,Packing Tape,Household & Cleaning,15,3,3M,4.5
+6115,Super Glue,Household & Cleaning,16,3,Gorilla,5.2
+6116,Scissors,Household & Cleaning,17,3,Scotch,6.5
+6117,Box Cutter,Household & Cleaning,18,3,Generic,4.8
+6118,Picture Hanging Kit,Household & Cleaning,19,3,3M Command,9.99
+6119,Gardening Gloves,Household & Cleaning,20,3,Generic,8.99
+6120,Potting Soil,Household & Cleaning,21,3,Miracle-Gro,9.5
+6121,Plant Food,Household & Cleaning,22,3,Miracle-Gro,7.8
+6122,Watering Can,Household & Cleaning,23,3,Generic,12.5
+6123,Car Wash Soap,Household & Cleaning,24,3,Armor All,8.2
+6124,Car Wax,Household & Cleaning,25,3,Turtle Wax,11.5
+6125,Windshield Wiper Fluid,Household & Cleaning,26,3,Rain-X,4.5
+6126,Motor Oil,Household & Cleaning,27,3,Pennzoil,24.99
+6127,Antifreeze,Household & Cleaning,28,3,Prestone,14.99
+6128,Pet Shampoo,Household & Cleaning,29,3,Hartz,7.2
+6129,Flea & Tick Collar,Household & Cleaning,30,3,Seresto,59.99
+6130,Cat Litter 20lb,Household & Cleaning,31,3,Tidy Cats,15.99
+6131,Dog Food Dry 15lb,Household & Cleaning,32,3,Purina,22.99
+6132,Cat Food Dry 7lb,Household & Cleaning,33,3,Meow Mix,12.99
+6133,Bird Seed,Household & Cleaning,34,3,Kaytee,9.5
+6134,Fish Food,Household & Cleaning,35,3,Tetra,6.8
+6135,First Aid Kit,Household & Cleaning,36,3,Band-Aid,14.99
+6136,Bandages Assorted,Household & Cleaning,37,3,Band-Aid,4.5
+6137,Antiseptic Wipes,Household & Cleaning,38,3,Generic,3.2
+6138,Rubbing Alcohol,Household & Cleaning,39,3,Generic,2.8
+6139,Hydrogen Peroxide,Household & Cleaning,40,3,Generic,2.5
+6140,Pain Reliever,Household & Cleaning,41,3,Tylenol,9.99
+6141,Ibuprofen,Household & Cleaning,42,3,Advil,10.5
+6142,Allergy Medicine,Household & Cleaning,43,3,Claritin,18.99
+6143,Cough Drops,Household & Cleaning,44,3,Halls,3.2
+6144,Sunscreen SPF 30,Household & Cleaning,45,3,Coppertone,11.99
+6145,Insect Repellent,Household & Cleaning,46,3,Off!,8.5
+6146,Hand Sanitizer,Household & Cleaning,47,3,Purell,3.99
+6147,Cotton Balls,Household & Cleaning,48,3,Generic,2.8
+6148,Q-tips,Household & Cleaning,49,3,Q-tips,4.5
+6149,Sewing Kit,Household & Cleaning,50,3,Generic,6.99
+7001,Frozen Pepperoni Pizza,Frozen (Dairy etc),1,1,DiGiorno,8.5
+7002,Frozen Cheese Pizza,Frozen (Dairy etc),2,1,DiGiorno,8.2
+7003,Frozen Supreme Pizza,Frozen (Dairy etc),3,1,Red Baron,7.5
+7004,Frozen Thin Crust Pizza,Frozen (Dairy etc),4,1,Tombstone,6.99
+7005,Pizza Rolls,Frozen (Dairy etc),5,1,Totino's,5.5
+7006,Hot Pockets Pepperoni,Frozen (Dairy etc),6,1,Hot Pockets,3.8
+7007,Hot Pockets Ham & Cheese,Frozen (Dairy etc),7,1,Hot Pockets,3.8
+7008,Frozen Lasagna,Frozen (Dairy etc),8,1,Stouffer's,14.99
+7009,Frozen Mac & Cheese,Frozen (Dairy etc),9,1,Stouffer's,4.5
+7010,Frozen Salisbury Steak Dinner,Frozen (Dairy etc),10,1,Hungry-Man,4.8
+7011,Frozen Fried Chicken Dinner,Frozen (Dairy etc),11,1,Hungry-Man,4.8
+7012,Healthy Choice Steamer,Frozen (Dairy etc),12,1,Healthy Choice,4.2
+7013,Lean Cuisine Fettuccine Alfredo,Frozen (Dairy etc),13,1,Lean Cuisine,4.1
+7014,Frozen Enchiladas,Frozen (Dairy etc),14,1,Amy's,5.5
+7015,Frozen Burritos,Frozen (Dairy etc),15,1,El Monterey,1.5
+7016,Frozen Taquitos,Frozen (Dairy etc),16,1,El Monterey,7.2
+7017,Frozen Chicken Nuggets,Frozen (Dairy etc),17,1,Tyson,9.99
+7018,Frozen Chicken Tenders,Frozen (Dairy etc),18,1,Tyson,10.5
+7019,Frozen Fish Sticks,Frozen (Dairy etc),19,1,Gorton's,8.5
+7020,Frozen Popcorn Shrimp,Frozen (Dairy etc),20,1,SeaPak,9.2
+7021,Frozen Meatballs,Frozen (Dairy etc),21,1,Generic,8.99
+7022,Frozen Veggie Burgers,Frozen (Dairy etc),22,1,MorningStar,9.5
+7023,Frozen Pot Pie Chicken,Frozen (Dairy etc),23,1,Marie Callender's,3.8
+7024,Frozen Pot Pie Beef,Frozen (Dairy etc),24,1,Marie Callender's,3.8
+7025,Frozen Breakfast Sausage,Frozen (Dairy etc),25,1,Jimmy Dean,5.8
+7026,Frozen Breakfast Sandwiches,Frozen (Dairy etc),26,1,Jimmy Dean,8.99
+7027,Frozen Corn Dogs,Frozen (Dairy etc),27,1,State Fair,7.5
+7028,White Castle Sliders,Frozen (Dairy etc),28,1,White Castle,6.99
+7029,Frozen Orange Chicken,Frozen (Dairy etc),29,1,Trader Joe's,7.99
+7030,Frozen Stir Fry Meal,Frozen (Dairy etc),30,1,P.F. Chang's,9.5
+7031,Frozen Pasta Meal for Two,Frozen (Dairy etc),31,1,Bertolli,10.99
+7032,Frozen Garlic Bread,Frozen (Dairy etc),32,1,New York Bakery,4.2
+7033,Frozen Texas Toast,Frozen (Dairy etc),34,1,New York Bakery,4.1
+7034,Frozen Egg Rolls,Frozen (Dairy etc),35,1,Pagoda,5.5
+7035,Frozen Spring Rolls,Frozen (Dairy etc),36,1,Generic,6.1
+7036,Frozen Dumplings,Frozen (Dairy etc),37,1,Generic,7.2
+7037,Frozen Pierogies,Frozen (Dairy etc),38,1,Mrs. T's,4.8
+7038,Frozen Mozzarella Sticks,Frozen (Dairy etc),39,1,Farm Rich,7.8
+7039,Frozen Jalapeno Poppers,Frozen (Dairy etc),40,1,TGI Fridays,6.99
+7040,Frozen Buffalo Wings,Frozen (Dairy etc),41,1,Tyson,11.99
+7041,Frozen Quiche,Frozen (Dairy etc),42,1,Nancy's,7.5
+7042,Frozen Spinach Dip,Frozen (Dairy etc),43,1,Stouffer's,5.2
+7043,Vegan Frozen Meal,Frozen (Dairy etc),44,1,Sweet Earth,5.8
+7044,Gluten Free Frozen Pizza,Frozen (Dairy etc),45,1,Daiya,9.99
+7045,Cauliflower Crust Pizza,Frozen (Dairy etc),46,1,Caulipower,9.5
+7046,Frozen Edamame,Frozen (Dairy etc),47,1,Generic,3.2
+7047,Frozen Soft Pretzels,Frozen (Dairy etc),48,1,Superpretzel,4.5
+7048,Frozen Appetizer Sampler,Frozen (Dairy etc),49,1,Generic,9.99
+7049,Frozen Family Size Entree,Frozen (Dairy etc),50,1,Stouffer's,15.99
+7051,Frozen Waffles,Frozen (Dairy etc),1,2,Eggo,4.5
+7052,Frozen Pancakes,Frozen (Dairy etc),2,2,Eggo,4.2
+7053,Frozen French Toast Sticks,Frozen (Dairy etc),3,2,Generic,5.1
+7054,Frozen French Fries,Frozen (Dairy etc),4,2,Ore-Ida,4.8
+7055,Frozen Tater Tots,Frozen (Dairy etc),5,2,Ore-Ida,4.8
+7056,Frozen Onion Rings,Frozen (Dairy etc),6,2,Ore-Ida,4.5
+7057,Frozen Hash Browns,Frozen (Dairy etc),7,2,Ore-Ida,4.2
+7058,Frozen Corn,Frozen (Dairy etc),8,2,Bird's Eye,2.8
+7059,Frozen Peas,Frozen (Dairy etc),9,2,Bird's Eye,2.8
+7060,Frozen Green Beans,Frozen (Dairy etc),10,2,Bird's Eye,2.8
+7061,Frozen Broccoli Florets,Frozen (Dairy etc),11,2,Bird's Eye,2.99
+7062,Frozen Mixed Vegetables,Frozen (Dairy etc),12,2,Generic,2.5
+7063,Frozen Spinach,Frozen (Dairy etc),13,2,Generic,2.6
+7064,Frozen Steamable Veggies,Frozen (Dairy etc),14,2,Green Giant,3.2
+7065,Frozen Riced Cauliflower,Frozen (Dairy etc),15,2,Green Giant,3.8
+7066,Frozen Strawberries,Frozen (Dairy etc),16,2,Generic,4.5
+7067,Frozen Blueberries,Frozen (Dairy etc),17,2,Generic,4.8
+7068,Frozen Mixed Berries,Frozen (Dairy etc),18,2,Generic,4.99
+7069,Frozen Mango Chunks,Frozen (Dairy etc),19,2,Dole,5.2
+7070,Frozen Pineapple Chunks,Frozen (Dairy etc),20,2,Dole,4.99
+7071,Frozen Cherries,Frozen (Dairy etc),21,2,Generic,5.5
+7072,Frozen Peaches,Frozen (Dairy etc),22,2,Generic,4.8
+7073,Vanilla Ice Cream 1.5qt,Frozen (Dairy etc),23,2,Breyers,6.99
+7074,Chocolate Ice Cream 1.5qt,Frozen (Dairy etc),24,2,Breyers,6.99
+7075,Strawberry Ice Cream 1.5qt,Frozen (Dairy etc),25,2,Turkey Hill,6.5
+7076,Cookie Dough Ice Cream Pint,Frozen (Dairy etc),26,2,Ben & Jerry's,5.99
+7077,Cherry Garcia Ice Cream Pint,Frozen (Dairy etc),27,2,Ben & Jerry's,5.99
+7078,Vanilla Bean Ice Cream Pint,Frozen (Dairy etc),28,2,Haagen-Dazs,5.99
+7079,Coffee Ice Cream Pint,Frozen (Dairy etc),29,2,Haagen-Dazs,5.99
+7080,Generic Vanilla Ice Cream,Frozen (Dairy etc),30,2,Generic,4.99
+7081,Ice Cream Sandwiches,Frozen (Dairy etc),31,2,Klondike,5.5
+7082,Ice Cream Bars,Frozen (Dairy etc),32,2,Klondike,5.5
+7083,Fudge Bars,Frozen (Dairy etc),33,2,Fudgsicle,5.2
+7084,Popsicles,Frozen (Dairy etc),34,2,Popsicle,5.1
+7085,Sorbet Raspberry,Frozen (Dairy etc),35,2,Talenti,6.2
+7086,Gelato,Frozen (Dairy etc),36,2,Talenti,6.2
+7087,Frozen Yogurt,Frozen (Dairy etc),37,2,Turkey Hill,6.2
+7088,Non-Dairy Ice Cream,Frozen (Dairy etc),38,2,So Delicious,6.5
+7089,Cool Whip,Frozen (Dairy etc),39,2,Kraft,3.5
+7090,Frozen Pie Crust,Frozen (Dairy etc),40,2,Pillsbury,4.2
+7091,Frozen Apple Pie,Frozen (Dairy etc),41,2,Marie Callender's,8.99
+7092,Frozen Cheesecake,Frozen (Dairy etc),42,2,Sara Lee,7.5
+7093,Frozen Pound Cake,Frozen (Dairy etc),43,2,Sara Lee,6.8
+7094,Frozen Puff Pastry,Frozen (Dairy etc),44,2,Pepperidge Farm,6.2
+7095,Frozen Whipped Topping,Frozen (Dairy etc),45,2,Reddi-wip,4.5
+7096,Frozen Cookie Dough,Frozen (Dairy etc),46,2,Pillsbury,4.8
+7097,Ice Cubes Bag,Frozen (Dairy etc),47,2,Generic,3.5
+7098,Juice Concentrate Orange,Frozen (Dairy etc),48,2,Minute Maid,2.8
+7099,Juice Concentrate Lemonade,Frozen (Dairy etc),49,2,Minute Maid,2.5
+7100,Frozen Dinner Rolls,Frozen (Dairy etc),50,2,Rhodes,5.2
+7101,Whole Milk Gallon,Frozen (Dairy etc),1,3,Generic,4.8
+7102,2% Milk Gallon,Frozen (Dairy etc),2,3,Generic,4.8
+7103,Skim Milk Gallon,Frozen (Dairy etc),3,3,Generic,4.8
+7104,Organic Whole Milk Half Gallon,Frozen (Dairy etc),4,3,Horizon,5.99
+7105,Lactose-Free Milk Half Gallon,Frozen (Dairy etc),5,3,Lactaid,5.5
+7106,Chocolate Milk Half Gallon,Frozen (Dairy etc),6,3,TruMoo,4.2
+7107,Half & Half,Frozen (Dairy etc),7,3,Generic,3.2
+7108,Heavy Cream,Frozen (Dairy etc),8,3,Generic,3.8
+7109,Salted Butter,Frozen (Dairy etc),9,3,Land O'Lakes,5.5
+7110,Unsalted Butter,Frozen (Dairy etc),10,3,Land O'Lakes,5.5
+7111,Margarine,Frozen (Dairy etc),11,3,I Can't Believe It's Not Butter,4.2
+7112,Cheddar Cheese Block,Frozen (Dairy etc),12,3,Kraft,5.2
+7113,Mozzarella Cheese Block,Frozen (Dairy etc),13,3,Kraft,5.2
+7114,Shredded Cheddar Cheese,Frozen (Dairy etc),14,3,Generic,4.99
+7115,Shredded Mozzarella Cheese,Frozen (Dairy etc),15,3,Generic,4.99
+7116,American Cheese Slices,Frozen (Dairy etc),16,3,Kraft,5.1
+7117,Provolone Cheese Slices,Frozen (Dairy etc),17,3,Sargento,5.3
+7118,Swiss Cheese Slices,Frozen (Dairy etc),18,3,Sargento,5.3
+7119,Parmesan Cheese Grated,Frozen (Dairy etc),19,3,Kraft,4.8
+7120,Cream Cheese,Frozen (Dairy etc),20,3,Philadelphia,4.2
+7121,Cottage Cheese,Frozen (Dairy etc),21,3,Daisy,3.8
+7122,Sour Cream,Frozen (Dairy etc),22,3,Daisy,3.5
+7123,Plain Yogurt,Frozen (Dairy etc),23,3,Dannon,4.2
+7124,Greek Yogurt Plain,Frozen (Dairy etc),24,3,Chobani,2.2
+7125,Greek Yogurt Vanilla,Frozen (Dairy etc),25,3,Chobani,2.2
+7126,Yogurt Variety Pack,Frozen (Dairy etc),26,3,Yoplait,7.5
+7127,Large Eggs Dozen,Frozen (Dairy etc),27,3,Generic,4.5
+7128,Cage-Free Eggs Dozen,Frozen (Dairy etc),28,3,Eggland's Best,5.5
+7129,Egg Whites,Frozen (Dairy etc),29,3,Egg Beaters,4.99
+7130,Orange Juice,Frozen (Dairy etc),30,3,Tropicana,4.5
+7131,Apple Juice,Frozen (Dairy etc),31,3,Mott's,3.99
+7132,Refrigerated Biscuits,Frozen (Dairy etc),32,3,Pillsbury,3.5
+7133,Refrigerated Crescent Rolls,Frozen (Dairy etc),33,3,Pillsbury,3.6
+7134,Refrigerated Cookie Dough,Frozen (Dairy etc),34,3,Pillsbury,4.8
+7135,Refrigerated Pizza Dough,Frozen (Dairy etc),35,3,Pillsbury,4.1
+7136,Tofu,Frozen (Dairy etc),36,3,Nasoya,3.8
+7137,Hummus,Frozen (Dairy etc),37,3,Sabra,4.5
+7138,Guacamole,Frozen (Dairy etc),38,3,Wholly Guacamole,5.2
+7139,Salsa,Frozen (Dairy etc),39,3,Generic,3.99
+7140,French Onion Dip,Frozen (Dairy etc),40,3,Generic,3.2
+7141,Ricotta Cheese,Frozen (Dairy etc),41,3,Polly-O,4.8
+7142,Feta Cheese,Frozen (Dairy etc),42,3,Athenos,5.1
+7143,Goat Cheese,Frozen (Dairy etc),43,3,Generic,5.5
+7144,Blue Cheese Crumbles,Frozen (Dairy etc),44,3,Generic,4.99
+7145,String Cheese,Frozen (Dairy etc),45,3,Frigo,5.2
+7146,Coffee Creamer French Vanilla,Frozen (Dairy etc),46,3,Coffee-Mate,4.8
+7147,Coffee Creamer Hazelnut,Frozen (Dairy etc),47,3,Coffee-Mate,4.8
+7148,Cold Brew Coffee,Frozen (Dairy etc),48,3,Stok,5.99
+7149,Iced Tea,Frozen (Dairy etc),49,3,Gold Peak,3.99
+7150,Kombucha,Frozen (Dairy etc),50,3,GT's,4.5
+8001,Bananas (per lb),Fruits & Vegetable,1,1,Generic,0.69
+8002,Gala Apples (per lb),Fruits & Vegetable,2,1,Generic,1.99
+8003,Granny Smith Apples (per lb),Fruits & Vegetable,3,1,Generic,1.99
+8004,Fuji Apples (per lb),Fruits & Vegetable,4,1,Generic,2.1
+8005,Red Delicious Apples (per lb),Fruits & Vegetable,5,1,Generic,1.89
+8006,Navel Oranges (per lb),Fruits & Vegetable,6,1,Sunkist,1.5
+8007,Clementines 3lb bag,Fruits & Vegetable,7,1,Cuties,5.99
+8008,Lemons (each),Fruits & Vegetable,8,1,Generic,0.79
+8009,Limes (each),Fruits & Vegetable,9,1,Generic,0.69
+8010,Red Seedless Grapes (per lb),Fruits & Vegetable,10,1,Generic,2.99
+8011,Green Seedless Grapes (per lb),Fruits & Vegetable,11,1,Generic,2.99
+8012,Strawberries 1lb,Fruits & Vegetable,12,1,Driscoll's,4.99
+8013,Blueberries pint,Fruits & Vegetable,13,1,Driscoll's,5.2
+8014,Raspberries half-pint,Fruits & Vegetable,14,1,Driscoll's,4.5
+8015,Blackberries half-pint,Fruits & Vegetable,15,1,Driscoll's,4.5
+8016,Pineapple (each),Fruits & Vegetable,16,1,Dole,3.99
+8017,Cantaloupe (each),Fruits & Vegetable,17,1,Generic,3.5
+8018,Honeydew Melon (each),Fruits & Vegetable,18,1,Generic,3.8
+8019,Watermelon (each),Fruits & Vegetable,19,1,Generic,7.99
+8020,Peaches (per lb),Fruits & Vegetable,20,1,Generic,2.5
+8021,Plums (per lb),Fruits & Vegetable,21,1,Generic,2.6
+8022,Nectarines (per lb),Fruits & Vegetable,22,1,Generic,2.5
+8023,Pears (per lb),Fruits & Vegetable,23,1,Generic,1.99
+8024,Cherries (per lb),Fruits & Vegetable,24,1,Generic,5.99
+8025,Kiwi (each),Fruits & Vegetable,25,1,Generic,0.89
+8026,Mango (each),Fruits & Vegetable,26,1,Generic,1.99
+8027,Pomegranate (each),Fruits & Vegetable,28,1,Generic,2.5
+8028,Grapefruit (each),Fruits & Vegetable,29,1,Generic,1.2
+8029,Avocado (each),Fruits & Vegetable,30,1,Generic,2.1
+8030,Coconut (each),Fruits & Vegetable,31,1,Generic,2.99
+8031,Figs (per pint),Fruits & Vegetable,32,1,Generic,5.5
+8032,Apricots (per lb),Fruits & Vegetable,33,1,Generic,3.2
+8033,Papaya (each),Fruits & Vegetable,34,1,Generic,3.8
+8034,Starfruit (each),Fruits & Vegetable,35,1,Generic,2.8
+8035,Guava (per lb),Fruits & Vegetable,36,1,Generic,2.99
+8036,Passion Fruit (each),Fruits & Vegetable,37,1,Generic,2.2
+8037,Dates (per container),Fruits & Vegetable,38,1,Generic,6.5
+8038,Cranberries (bag),Fruits & Vegetable,39,1,Ocean Spray,3.5
+8039,Lychee (per lb),Fruits & Vegetable,40,1,Generic,6.99
+8040,Dragon Fruit (each),Fruits & Vegetable,41,1,Generic,4.5
+8041,Persimmon (each),Fruits & Vegetable,42,1,Generic,1.8
+8042,Rambutan (per lb),Fruits & Vegetable,43,1,Generic,7.2
+8043,Kumquats (per pint),Fruits & Vegetable,44,1,Generic,4.8
+8044,Jackfruit (per lb),Fruits & Vegetable,45,1,Generic,2.99
+8045,Plantains (each),Fruits & Vegetable,46,1,Generic,0.99
+8046,Tamarind (pod),Fruits & Vegetable,47,1,Generic,1.5
+8047,Apple Slices (bag),Fruits & Vegetable,48,1,Generic,3.99
+8048,Fruit Cup,Fruits & Vegetable,49,1,Dole,2.5
+8049,Fruit Salad Bowl,Fruits & Vegetable,50,1,Generic,6.99
+8051,Tomatoes on the Vine (per lb),Fruits & Vegetable,1,2,Generic,3.99
+8052,Roma Tomatoes (per lb),Fruits & Vegetable,2,2,Generic,2.5
+8053,Beefsteak Tomato (per lb),Fruits & Vegetable,3,2,Generic,2.99
+8054,Cherry Tomatoes (pint),Fruits & Vegetable,4,2,Generic,3.5
+8055,Russet Potatoes 5lb bag,Fruits & Vegetable,5,2,Generic,5.5
+8056,Red Potatoes 5lb bag,Fruits & Vegetable,6,2,Generic,5.8
+8057,Yellow Onions 3lb bag,Fruits & Vegetable,7,2,Generic,3.99
+8058,Red Onions (per lb),Fruits & Vegetable,8,2,Generic,1.8
+8059,Sweet Onions (per lb),Fruits & Vegetable,9,2,Generic,1.9
+8060,Garlic (head),Fruits & Vegetable,10,2,Generic,0.89
+8061,Carrots 1lb bag,Fruits & Vegetable,11,2,Generic,1.5
+8062,Baby Carrots,Fruits & Vegetable,12,2,Generic,2.8
+8063,Celery (bunch),Fruits & Vegetable,13,2,Generic,2.2
+8064,Broccoli Crowns (per lb),Fruits & Vegetable,14,2,Generic,2.8
+8065,Cauliflower (head),Fruits & Vegetable,15,2,Generic,3.99
+8066,Romaine Lettuce (head),Fruits & Vegetable,16,2,Generic,3.5
+8067,Iceberg Lettuce (head),Fruits & Vegetable,17,2,Generic,2.8
+8068,Spinach Bag,Fruits & Vegetable,18,2,Generic,4
+8069,Kale (bunch),Fruits & Vegetable,19,2,Generic,2.5
+8070,Bagged Salad Caesar Kit,Fruits & Vegetable,20,2,Dole,4.8
+8071,Bagged Salad Garden Mix,Fruits & Vegetable,21,2,Fresh Express,4.5
+8072,Bell Pepper Green (each),Fruits & Vegetable,22,2,Generic,1.5
+8073,Bell Pepper Red (each),Fruits & Vegetable,23,2,Generic,1.8
+8074,Bell Pepper Yellow (each),Fruits & Vegetable,24,2,Generic,1.8
+8075,Cucumber (each),Fruits & Vegetable,25,2,Generic,1.2
+8076,Zucchini (per lb),Fruits & Vegetable,26,2,Generic,1.99
+8077,Yellow Squash (per lb),Fruits & Vegetable,27,2,Generic,1.99
+8078,Mushrooms (carton),Fruits & Vegetable,28,2,Generic,3.2
+8079,Asparagus (bunch),Fruits & Vegetable,29,2,Generic,4.5
+8080,Green Beans (per lb),Fruits & Vegetable,30,2,Generic,2.99
+8081,Corn on the Cob (each),Fruits & Vegetable,31,2,Generic,0.99
+8082,Sweet Potato (per lb),Fruits & Vegetable,32,2,Generic,1.5
+8083,Cabbage (head),Fruits & Vegetable,33,2,Generic,2.99
+8084,Eggplant (each),Fruits & Vegetable,34,2,Generic,2.5
+8085,Artichoke (each),Fruits & Vegetable,35,2,Generic,2.8
+8086,Radishes (bunch),Fruits & Vegetable,36,2,Generic,1.99
+8087,Beets (bunch),Fruits & Vegetable,37,2,Generic,2.5
+8088,Leeks (bunch),Fruits & Vegetable,38,2,Generic,3.1
+8089,Scallions (bunch),Fruits & Vegetable,39,2,Generic,1.2
+8090,Ginger Root (per lb),Fruits & Vegetable,40,2,Generic,4.5
+8091,Jalapeno Pepper (per lb),Fruits & Vegetable,41,2,Generic,2.2
+8092,Butternut Squash (each),Fruits & Vegetable,42,2,Generic,3.8
+8093,Spaghetti Squash (each),Fruits & Vegetable,43,2,Generic,3.99
+8094,Okra (per lb),Fruits & Vegetable,45,2,Generic,3.5
+8095,Turnips (per lb),Fruits & Vegetable,46,2,Generic,1.8
+8096,Parsnips (per lb),Fruits & Vegetable,47,2,Generic,2.1
+8097,Bok Choy (per lb),Fruits & Vegetable,48,2,Generic,2.5
+8098,Bean Sprouts (bag),Fruits & Vegetable,49,2,Generic,2.2
+8099,Snow Peas (bag),Fruits & Vegetable,50,2,Generic,3.1
+8101,Cilantro (bunch),Fruits & Vegetable,1,3,Generic,1.5
+8102,Parsley (bunch),Fruits & Vegetable,2,3,Generic,1.5
+8103,Basil (container),Fruits & Vegetable,3,3,Generic,3.2
+8104,Mint (container),Fruits & Vegetable,4,3,Generic,3.1
+8105,Rosemary (container),Fruits & Vegetable,5,3,Generic,3.2
+8106,Thyme (container),Fruits & Vegetable,6,3,Generic,3.2
+8107,Dill (container),Fruits & Vegetable,7,3,Generic,3.1
+8108,Oregano (container),Fruits & Vegetable,8,3,Generic,3.2
+8109,Chives (container),Fruits & Vegetable,9,3,Generic,2.99
+8110,Sage (container),Fruits & Vegetable,10,3,Generic,3.3
+8111,Tofu Extra Firm,Fruits & Vegetable,11,3,Nasoya,3.8
+8112,Tempeh,Fruits & Vegetable,12,3,Lightlife,4.2
+8113,Seitan,Fruits & Vegetable,13,3,Upton's Naturals,5.5
+8114,Miso Paste,Fruits & Vegetable,14,3,Generic,6.2
+8115,Kimchi,Fruits & Vegetable,15,3,Generic,7.5
+8116,Guacamole,Fruits & Vegetable,16,3,Wholly Guacamole,5.2
+8117,Salsa Fresca,Fruits & Vegetable,17,3,Generic,4.5
+8118,Pico de Gallo,Fruits & Vegetable,18,3,Generic,4.8
+8119,Bruschetta,Fruits & Vegetable,19,3,Generic,5.1
+8120,Peeled Garlic,Fruits & Vegetable,20,3,Generic,4.2
+8121,Cut Vegetable Mix,Fruits & Vegetable,21,3,Generic,5.5
+8122,Coleslaw Mix,Fruits & Vegetable,22,3,Generic,3.2
+8123,Stir Fry Vegetable Mix,Fruits & Vegetable,23,3,Generic,4.8
+8124,Soup Vegetable Mix,Fruits & Vegetable,24,3,Generic,4.5
+8125,Baby Bella Mushrooms,Fruits & Vegetable,25,3,Generic,3.8
+8126,Portobello Mushrooms,Fruits & Vegetable,26,3,Generic,4.5
+8127,Shiitake Mushrooms,Fruits & Vegetable,27,3,Generic,5.2
+8128,Shallots (per lb),Fruits & Vegetable,28,3,Generic,3.99
+8129,Fennel (bulb),Fruits & Vegetable,29,3,Generic,2.8
+8130,Arugula (container),Fruits & Vegetable,30,3,Generic,4.2
+8131,Spring Mix (container),Fruits & Vegetable,31,3,Generic,4.5
+8132,Butter Lettuce (head),Fruits & Vegetable,33,3,Generic,3.2
+8133,Radicchio (head),Fruits & Vegetable,34,3,Generic,2.99
+8134,Endive (head),Fruits & Vegetable,35,3,Generic,2.8
+8135,Watercress (bunch),Fruits & Vegetable,36,3,Generic,2.5
+8136,Wheatgrass,Fruits & Vegetable,37,3,Generic,4.99
+8137,Sprouts,Fruits & Vegetable,38,3,Generic,2.8
+8138,Turmeric Root (per lb),Fruits & Vegetable,39,3,Generic,5.5
+8139,Horseradish Root,Fruits & Vegetable,40,3,Generic,3.2
+8140,Jicama (per lb),Fruits & Vegetable,41,3,Generic,1.99
+8141,Chayote Squash (each),Fruits & Vegetable,42,3,Generic,1.5
+8142,Tomatillos (per lb),Fruits & Vegetable,43,3,Generic,2.5
+8143,Poblano Peppers (per lb),Fruits & Vegetable,44,3,Generic,2.8
+8144,Habanero Peppers (per lb),Fruits & Vegetable,45,3,Generic,4.99
+8145,Yuca Root (per lb),Fruits & Vegetable,46,3,Generic,1.8
+8146,Taro Root (per lb),Fruits & Vegetable,47,3,Generic,2.2
+8147,Edible Flowers,Fruits & Vegetable,48,3,Generic,5.99
+8148,Herbal Tea Infusion Mix,Fruits & Vegetable,49,3,Generic,6.5
+8149,Salad Dressing Vinaigrette,Fruits & Vegetable,50,3,Generic,4.2
+9001,Ground Beef 80/20 (per lb),Meat & Seafood,1,1,Generic,6.99
+9002,Ground Beef 93/7 (per lb),Meat & Seafood,2,1,Generic,7.99
+9003,Beef Sirloin Steak (per lb),Meat & Seafood,3,1,Generic,11.99
+9004,Beef Ribeye Steak (per lb),Meat & Seafood,4,1,Generic,16.99
+9005,Beef NY Strip Steak (per lb),Meat & Seafood,5,1,Generic,15.99
+9006,Beef Filet Mignon (per lb),Meat & Seafood,6,1,Generic,24.99
+9007,Beef Chuck Roast (per lb),Meat & Seafood,7,1,Generic,8.99
+9008,Beef Brisket (per lb),Meat & Seafood,8,1,Generic,9.5
+9009,Beef Short Ribs (per lb),Meat & Seafood,9,1,Generic,10.5
+9010,Beef Stew Meat (per lb),Meat & Seafood,10,1,Generic,8.2
+9011,Beef for Fajitas (per lb),Meat & Seafood,11,1,Generic,9.8
+9012,Beef Liver (per lb),Meat & Seafood,12,1,Generic,4.5
+9013,Organic Ground Beef (per lb),Meat & Seafood,13,1,Generic,9.99
+9014,Grass-Fed Ribeye (per lb),Meat & Seafood,14,1,Generic,22.99
+9015,Ground Chuck Patties,Meat & Seafood,15,1,Generic,8.5
+9016,Pork Chops Boneless (per lb),Meat & Seafood,16,1,Generic,5.99
+9017,Pork Chops Bone-in (per lb),Meat & Seafood,17,1,Generic,5.5
+9018,Pork Tenderloin (per lb),Meat & Seafood,18,1,Generic,6.99
+9019,Pork Loin Roast (per lb),Meat & Seafood,19,1,Generic,4.99
+9020,Pork Shoulder (per lb),Meat & Seafood,20,1,Generic,3.99
+9021,Ground Pork (per lb),Meat & Seafood,21,1,Generic,4.8
+9022,Pork Sausage Mild,Meat & Seafood,22,1,Jimmy Dean,5.8
+9023,Pork Sausage Hot,Meat & Seafood,23,1,Jimmy Dean,5.8
+9024,Italian Sausage,Meat & Seafood,24,1,Johnsonville,6.2
+9025,Bratwurst,Meat & Seafood,25,1,Johnsonville,6.2
+9026,Bacon Thick Cut,Meat & Seafood,26,1,Oscar Mayer,8.99
+9027,Bacon Center Cut,Meat & Seafood,27,1,Oscar Mayer,8.5
+9028,Canadian Bacon,Meat & Seafood,28,1,Generic,7.2
+9029,Ham Steak,Meat & Seafood,29,1,Generic,6.5
+9030,Spiral Sliced Ham (per lb),Meat & Seafood,30,1,Generic,4.5
+9031,Pork Ribs (per lb),Meat & Seafood,31,1,Generic,5.2
+9032,Pancetta,Meat & Seafood,32,1,Boar's Head,9.99
+9033,Prosciutto,Meat & Seafood,33,1,Boar's Head,12.99
+9034,Ground Lamb (per lb),Meat & Seafood,34,1,Generic,11.99
+9035,Lamb Chops (per lb),Meat & Seafood,35,1,Generic,15.99
+9036,Leg of Lamb (per lb),Meat & Seafood,36,1,Generic,12.5
+9037,Ground Veal (per lb),Meat & Seafood,37,1,Generic,10.99
+9038,Veal Cutlets (per lb),Meat & Seafood,38,1,Generic,14.99
+9039,Ground Bison (per lb),Meat & Seafood,39,1,Generic,13.99
+9040,Bison Steak (per lb),Meat & Seafood,40,1,Generic,19.99
+9041,Beef Hot Dogs,Meat & Seafood,41,1,Ball Park,6.5
+9042,Classic Hot Dogs,Meat & Seafood,42,1,Oscar Mayer,5.8
+9043,Kielbasa,Meat & Seafood,44,1,Hillshire Farm,6.8
+9044,Smoked Sausage,Meat & Seafood,45,1,Hillshire Farm,6.8
+9045,Andouille Sausage,Meat & Seafood,46,1,Generic,7.2
+9046,Chorizo,Meat & Seafood,47,1,Generic,6.99
+9047,Pepperoni Sliced,Meat & Seafood,48,1,Hormel,5.2
+9048,Salami,Meat & Seafood,49,1,Gallo,7.5
+9049,Summer Sausage,Meat & Seafood,50,1,Hickory Farms,10.99
+9051,Chicken Breasts Boneless Skinless (per lb),Meat & Seafood,1,2,Tyson,7.5
+9052,Chicken Thighs Boneless Skinless (per lb),Meat & Seafood,2,2,Tyson,5.99
+9053,Chicken Thighs Bone-in (per lb),Meat & Seafood,3,2,Generic,4.5
+9054,Chicken Drumsticks (per lb),Meat & Seafood,4,2,Generic,3.99
+9055,Chicken Wings (per lb),Meat & Seafood,5,2,Generic,4.8
+9056,Whole Chicken (per lb),Meat & Seafood,6,2,Perdue,3.5
+9057,Ground Chicken (per lb),Meat & Seafood,7,2,Perdue,6.5
+9058,Chicken Tenders (per lb),Meat & Seafood,8,2,Generic,7.8
+9059,Organic Chicken Breasts (per lb),Meat & Seafood,9,2,Generic,10.99
+9060,Rotisserie Chicken,Meat & Seafood,10,2,Generic,8.99
+9061,Chicken Sausage Apple Gouda,Meat & Seafood,11,2,Aidells,7.2
+9062,Ground Turkey 93/7 (per lb),Meat & Seafood,12,2,Jennie-O,7.2
+9063,Ground Turkey 85/15 (per lb),Meat & Seafood,13,2,Jennie-O,6.8
+9064,Turkey Breast Cutlets (per lb),Meat & Seafood,14,2,Generic,8.5
+9065,Turkey Tenderloins (per lb),Meat & Seafood,15,2,Generic,8.2
+9066,Whole Turkey (per lb),Meat & Seafood,16,2,Butterball,2.99
+9067,Turkey Bacon,Meat & Seafood,17,2,Oscar Mayer,5.5
+9068,Turkey Sausage,Meat & Seafood,18,2,Jimmy Dean,6.1
+9069,Cornish Hen (each),Meat & Seafood,19,2,Tyson,5.99
+9070,Duck Breast (per lb),Meat & Seafood,20,2,Generic,14.99
+9071,Deli Sliced Turkey Breast (per lb),Meat & Seafood,21,2,Boar's Head,11.99
+9072,Deli Sliced Ham (per lb),Meat & Seafood,22,2,Boar's Head,11.5
+9073,Deli Sliced Roast Beef (per lb),Meat & Seafood,23,2,Boar's Head,13.99
+9074,Deli Sliced Chicken Breast (per lb),Meat & Seafood,24,2,Boar's Head,11.8
+9075,Deli Sliced Salami (per lb),Meat & Seafood,25,2,Boar's Head,10.99
+9076,Deli Sliced Pepperoni (per lb),Meat & Seafood,26,2,Boar's Head,10.5
+9077,Deli Sliced Provolone Cheese (per lb),Meat & Seafood,27,2,Boar's Head,9.99
+9078,Deli Sliced American Cheese (per lb),Meat & Seafood,28,2,Boar's Head,9.5
+9079,Deli Sliced Swiss Cheese (per lb),Meat & Seafood,29,2,Boar's Head,10.2
+9080,Bologna,Meat & Seafood,30,2,Oscar Mayer,4.8
+9081,Lunchables Turkey & Cheddar,Meat & Seafood,31,2,Lunchables,3.5
+9082,Lunchables Ham & Swiss,Meat & Seafood,32,2,Lunchables,3.5
+9083,Chicken Salad,Meat & Seafood,33,2,Generic Deli,8.99
+9084,Tuna Salad,Meat & Seafood,34,2,Generic Deli,8.5
+9085,Macaroni Salad,Meat & Seafood,35,2,Generic Deli,6.99
+9086,Potato Salad,Meat & Seafood,36,2,Generic Deli,6.99
+9087,Coleslaw,Meat & Seafood,37,2,Generic Deli,6.5
+9088,Marinated Chicken Breasts,Meat & Seafood,38,2,Generic,8.5
+9089,Stuffed Pork Chops,Meat & Seafood,39,2,Generic,7.99
+9090,Meatloaf Mix,Meat & Seafood,40,2,Generic,7.5
+9091,Kabobs Beef,Meat & Seafood,41,2,Generic,12.99
+9092,Kabobs Chicken,Meat & Seafood,42,2,Generic,10.99
+9093,Plant-Based Ground 'Beef',Meat & Seafood,43,2,Beyond Meat,9.99
+9094,Plant-Based Sausages,Meat & Seafood,44,2,Beyond Meat,8.99
+9095,Plant-Based Burgers,Meat & Seafood,45,2,Impossible,9.5
+9096,Veggie Dogs,Meat & Seafood,46,2,Lightlife,5.8
+9097,Plant-Based 'Chicken' Nuggets,Meat & Seafood,47,2,Gardein,8.2
+9098,Tofurky Deli Slices,Meat & Seafood,48,2,Tofurky,4.99
+9099,Quail Eggs,Meat & Seafood,49,2,Generic,6.5
+9100,Rabbit Meat (per lb),Meat & Seafood,50,2,Generic,12.99
+9101,Salmon Fillet Atlantic (per lb),Meat & Seafood,1,3,Generic,14.99
+9102,Salmon Fillet Sockeye (per lb),Meat & Seafood,2,3,Generic,18.99
+9103,Tilapia Fillet (per lb),Meat & Seafood,3,3,Generic,9.99
+9104,Cod Fillet (per lb),Meat & Seafood,4,3,Generic,11.99
+9105,Haddock Fillet (per lb),Meat & Seafood,5,3,Generic,12.5
+9106,Tuna Steak (per lb),Meat & Seafood,6,3,Generic,17.99
+9107,Swordfish Steak (per lb),Meat & Seafood,7,3,Generic,19.99
+9108,Halibut Fillet (per lb),Meat & Seafood,8,3,Generic,22.99
+9109,Mahi-Mahi Fillet (per lb),Meat & Seafood,9,3,Generic,16.5
+9110,Sea Bass Fillet (per lb),Meat & Seafood,10,3,Generic,21.99
+9111,Rainbow Trout (per lb),Meat & Seafood,11,3,Generic,10.99
+9112,Catfish Fillet (per lb),Meat & Seafood,12,3,Generic,9.5
+9113,Snapper Fillet (per lb),Meat & Seafood,13,3,Generic,15.99
+9114,Grouper Fillet (per lb),Meat & Seafood,14,3,Generic,18.5
+9115,Smoked Salmon,Meat & Seafood,15,3,Generic,12.99
+9116,Raw Shrimp Large (per lb),Meat & Seafood,16,3,Generic,12.99
+9117,Cooked Shrimp Large (per lb),Meat & Seafood,17,3,Generic,14.99
+9118,Sea Scallops (per lb),Meat & Seafood,18,3,Generic,22.99
+9119,Bay Scallops (per lb),Meat & Seafood,19,3,Generic,18.99
+9120,Mussels (per lb),Meat & Seafood,20,3,Generic,7.99
+9121,Clams (per lb),Meat & Seafood,21,3,Generic,8.5
+9122,Oysters (each),Meat & Seafood,22,3,Generic,2.5
+9123,Lobster Tail (each),Meat & Seafood,23,3,Generic,15.99
+9124,King Crab Legs (per lb),Meat & Seafood,24,3,Generic,34.99
+9125,Snow Crab Legs (per lb),Meat & Seafood,25,3,Generic,24.99
+9126,Crawfish (per lb),Meat & Seafood,26,3,Generic,9.99
+9127,Calamari (per lb),Meat & Seafood,27,3,Generic,11.5
+9128,Octopus (per lb),Meat & Seafood,28,3,Generic,14.5
+9129,Imitation Crab Meat,Meat & Seafood,29,3,Generic,6.99
+9130,Lump Crab Meat,Meat & Seafood,30,3,Phillips,21.99
+9131,Crab Cakes,Meat & Seafood,31,3,Generic Deli,7.5
+9132,Stuffed Clams,Meat & Seafood,32,3,Generic Deli,6.8
+9133,Seafood Salad,Meat & Seafood,33,3,Generic Deli,9.99
+9134,Ceviche,Meat & Seafood,34,3,Generic Deli,12.5
+9135,Sushi California Roll,Meat & Seafood,35,3,Generic,8.99
+9136,Sushi Spicy Tuna Roll,Meat & Seafood,36,3,Generic,9.5
+9137,Sashimi Tuna,Meat & Seafood,37,3,Generic,14.99
+9138,Seaweed Salad,Meat & Seafood,38,3,Generic,5.99
+9139,Fish Roe (Tobiko),Meat & Seafood,39,3,Generic,11.99
+9140,Anchovies in Oil,Meat & Seafood,40,3,Roland,3.5
+9141,Herring in Wine Sauce,Meat & Seafood,41,3,Generic,6.2
+9142,Salt Cod,Meat & Seafood,42,3,Generic,13.99
+9143,Escargot,Meat & Seafood,43,3,Generic,15.5
+9144,Frog Legs (per lb),Meat & Seafood,44,3,Generic,10.99
+9145,Alligator Meat (per lb),Meat & Seafood,46,3,Generic,18.99
+9146,Frozen Salmon Burgers,Meat & Seafood,47,3,Generic,10.5
+9147,Frozen Breaded Fish Fillets,Meat & Seafood,48,3,Gorton's,9.99
+9148,Frozen Cooked Mussels,Meat & Seafood,49,3,Generic,8.99
+9149,Frozen Raw Shrimp,Meat & Seafood,50,3,Generic,11.99
